@@ -1,0 +1,14 @@
+/*# Show all the content in the center of the page*/
+div.front-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: aliceblue;
+}
+
+div.front-page svg {
+    color: white;
+    margin-left: -6px;
+}

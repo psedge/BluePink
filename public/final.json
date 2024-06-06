@@ -1,0 +1,3898 @@
+[
+    {
+        "eng": "TV",
+        "swe": "TV",
+        "eg_eng": "On the TV, we watch news och movies programs to relax after work.",
+        "eg_swe": "På TV:n tittar vi på nyheter och filmer för att koppla av efter jobbet.",
+        "form": "en",
+        "indefinite": "TV",
+        "definite": "TV:n"
+    },
+    {
+        "eng": "air",
+        "swe": "luft",
+        "eg_eng": "The air was fresh and clear after the rain.",
+        "eg_swe": "Luften var frisk och klar efter regnet.",
+        "form": "en",
+        "indefinite": "luft",
+        "definite": "luften"
+    },
+    {
+        "eng": "airport",
+        "swe": "flygplats",
+        "eg_eng": "At the airport, travelers from all over the world pass through every day.",
+        "eg_swe": "På flygplatsen passerar resenärer från hela världen varje dag.",
+        "form": "en",
+        "indefinite": "flygplats",
+        "definite": "flygplatsen"
+    },
+    {
+        "eng": "albatross",
+        "swe": "albatross",
+        "eg_eng": "On the ocean, the albatross flies far over the waves and looks for fish to eat.",
+        "eg_swe": "På havet flyger albatrossen långt över vågorna och letar efter fisk att äta.",
+        "form": "en",
+        "indefinite": "albatross",
+        "definite": "albatrossen"
+    },
+    {
+        "eng": "amusement park",
+        "swe": "nöjespark",
+        "eg_eng": "At the amusement park, people ride roller coasters and have fun together.",
+        "eg_swe": "På nöjesfältet åker folk berg-och dalbanor och har roligt tillsammans.",
+        "form": "ett",
+        "indefinite": "nöje`sfält",
+        "definite": "nöjesfältet"
+    },
+    {
+        "eng": "angle",
+        "swe": "vinkel",
+        "eg_eng": "The angle of the painting was perfect.",
+        "eg_swe": "Vinkeln på målningen var perfekt.",
+        "form": "en",
+        "indefinite": "vinkel",
+        "definite": "vinkeln"
+    },
+    {
+        "eng": "ant",
+        "swe": "myra",
+        "eg_eng": "The ant crawled on the kitchen table.",
+        "eg_swe": "Myran kröp på köksbordet.",
+        "form": "en",
+        "indefinite": "myra",
+        "definite": "myran"
+    },
+    {
+        "eng": "apple",
+        "swe": "äpple",
+        "eg_eng": "An apple a day keeps the doctor away.",
+        "eg_swe": "Ett äpple om dagen håller doktorn borta.",
+        "form": "ett",
+        "indefinite": "äpple",
+        "definite": "äpplet"
+    },
+    {
+        "eng": "aquarium",
+        "swe": "akvarium",
+        "eg_eng": "In the aquarium, fish and other marine animals swim in colorful underwater environments.",
+        "eg_swe": "I akvariet simmar fiskar och andra marina djur i färgglada undervattensmiljöer.",
+        "form": "ett",
+        "indefinite": "akvarium",
+        "definite": "akvariet"
+    },
+    {
+        "eng": "arch",
+        "swe": "båge",
+        "eg_eng": "An arch stood in the middle of the town.",
+        "eg_swe": "En båge stod mitt i staden.",
+        "form": "ett",
+        "indefinite": "båge",
+        "definite": "bågen"
+    },
+    {
+        "eng": "area",
+        "swe": "område",
+        "eg_eng": "The area was known for its beautiful parks.",
+        "eg_swe": "Området var känt för sina vackra parker.",
+        "form": "ett",
+        "indefinite": "område",
+        "definite": "området"
+    },
+    {
+        "eng": "arm",
+        "swe": "arm",
+        "eg_eng": "The child extended an arm to reach the toy.",
+        "eg_swe": "Barnet sträckte ut en arm för att nå leksaken.",
+        "form": "ett",
+        "indefinite": "arm",
+        "definite": "armen"
+    },
+    {
+        "eng": "army",
+        "swe": "armé",
+        "eg_eng": "The army marched through the city.",
+        "eg_swe": "Armén marscherade genom staden.",
+        "form": "en",
+        "indefinite": "armé",
+        "definite": "armén"
+    },
+    {
+        "eng": "art",
+        "swe": "konst",
+        "eg_eng": "The art at the museum was very impressive.",
+        "eg_swe": "Konsten på museet var mycket imponerande.",
+        "form": "en",
+        "indefinite": "konst",
+        "definite": "konsten"
+    },
+    {
+        "eng": "baby",
+        "swe": "bebis",
+        "eg_eng": "The baby slept peacefully in the cradle.",
+        "eg_swe": "Bebisen sov lugnt i vaggan.",
+        "form": "en",
+        "indefinite": "bebis",
+        "definite": "bebisen"
+    },
+    {
+        "eng": "back",
+        "swe": "rygg",
+        "eg_eng": "The back ached after a long day.",
+        "eg_swe": "Ryggen värkte efter en lång dag.",
+        "form": "en",
+        "indefinite": "rygg",
+        "definite": "Ryggen"
+    },
+    {
+        "eng": "bag",
+        "swe": "väska",
+        "eg_eng": "The bag was full of books.",
+        "eg_swe": "Väskan var full med böcker.",
+        "form": "en",
+        "indefinite": "väska",
+        "definite": "väskan"
+    },
+    {
+        "eng": "bakery",
+        "swe": "bageri",
+        "eg_eng": "In the bakery, fresh bread and pastries are baked every day.",
+        "eg_swe": "I bageriet bakas färskt bröd och bakverk varje dag.",
+        "form": "ett",
+        "indefinite": "bageri",
+        "definite": "bageriet"
+    },
+    {
+        "eng": "ball",
+        "swe": "boll",
+        "eg_eng": "A ball rolled across the grass.",
+        "eg_swe": "En boll rullade över gräset.",
+        "form": "ett",
+        "indefinite": "boll",
+        "definite": "bollen"
+    },
+    {
+        "eng": "band",
+        "swe": "band",
+        "eg_eng": "The band played at the festival.",
+        "eg_swe": "Bandet spelade på festivalen.",
+        "form": "ett",
+        "indefinite": "band",
+        "definite": "bandet"
+    },
+    {
+        "eng": "bar",
+        "swe": "bar",
+        "eg_eng": "At the bar, friends meet to socialize and have a drink after work.",
+        "eg_swe": "I baren träffas vänner för att umgås och ta en drink efter jobbet.",
+        "form": "en",
+        "indefinite": "bar",
+        "definite": "baren"
+    },
+    {
+        "eng": "basin",
+        "swe": "tvättfat",
+        "eg_eng": "The basin was full of water.",
+        "eg_swe": "Handfatet var fullt med vatten.",
+        "form": "en",
+        "indefinite": "Handfat",
+        "definite": "Handfatet"
+    },
+    {
+        "eng": "basket",
+        "swe": "korg",
+        "eg_eng": "The basket was filled with fruit.",
+        "eg_swe": "Korgen var fylld med frukt.",
+        "form": "en",
+        "indefinite": "korg",
+        "definite": "korgen"
+    },
+    {
+        "eng": "bath",
+        "swe": "bad",
+        "eg_eng": "After a long day, she took a bath.",
+        "eg_swe": "Efter en lång dag tog hon ett bad.",
+        "form": "ett",
+        "indefinite": "bad",
+        "definite": "badet"
+    },
+    {
+        "eng": "beach",
+        "swe": "strand",
+        "eg_eng": "At the beach, people enjoy the sun, sand, and sound of the waves.",
+        "eg_swe": "På stranden njuter människor av solen, sanden och havsbruset.",
+        "form": "en",
+        "indefinite": "stranden",
+        "definite": "stranden"
+    },
+    {
+        "eng": "beach resort",
+        "swe": "badort",
+        "eg_eng": "At the beach resort, visitors relax by the pool or take a walk along the beach.",
+        "eg_swe": "På badorten kan besökarna koppla av vid poolen eller ta en promenad längs stranden.",
+        "form": "en",
+        "indefinite": "badort",
+        "definite": "badorten"
+    },
+    {
+        "eng": "bear",
+        "swe": "björn",
+        "eg_eng": "In the forest, the bear wanders around and looks for berries and honey.",
+        "eg_swe": "I skogen vandrar björnen omkring och letar efter bär och honung.",
+        "form": "en",
+        "indefinite": "björn",
+        "definite": "björnen"
+    },
+    {
+        "eng": "bed",
+        "swe": "säng",
+        "eg_eng": "The bed was very comfortable.",
+        "eg_swe": "Sängen var mycket bekväm.",
+        "form": "en",
+        "indefinite": "säng",
+        "definite": "sängen"
+    },
+    {
+        "eng": "bee",
+        "swe": "bi",
+        "eg_eng": "A bee flew from flower to flower.",
+        "eg_swe": "Ett bi flög från blomma till blomma.",
+        "form": "ett",
+        "indefinite": "bi",
+        "definite": "biet"
+    },
+    {
+        "eng": "beer",
+        "swe": "öl",
+        "eg_eng": "The beer is cold",
+        "eg_swe": "Ölen är kall",
+        "form": "ett",
+        "indefinite": "öl",
+        "definite": "ölen"
+    },
+    {
+        "eng": "bell",
+        "swe": "klocka",
+        "eg_eng": "A bell rang loudly in the church.",
+        "eg_swe": "En klocka hängde på väggen.",
+        "form": "en",
+        "indefinite": "klocka",
+        "definite": "klockan"
+    },
+    {
+        "eng": "belt",
+        "swe": "bälte",
+        "eg_eng": "Lena loosened her belt a bit after a big meal",
+        "eg_swe": "Lena lossade på bältet lite efter en stor måltid",
+        "form": "ett",
+        "indefinite": "bälte",
+        "definite": "bältet"
+    },
+    {
+        "eng": "berry",
+        "swe": "bär",
+        "eg_eng": "The berry was sweet and juicy.",
+        "eg_swe": "Bäret var sött och saftigt.",
+        "form": "ett",
+        "indefinite": "bär",
+        "definite": "bäret"
+    },
+    {
+        "eng": "bird",
+        "swe": "fågel",
+        "eg_eng": "A bird sat on the branch and sang.",
+        "eg_swe": "Fågeln flaxade med vingarna.",
+        "form": "ett",
+        "indefinite": "fågel",
+        "definite": "fågeln"
+    },
+    {
+        "eng": "blade",
+        "swe": "blad",
+        "eg_eng": "The blade of the knife was sharp.",
+        "eg_swe": "Bladet föll från trädet.",
+        "form": "ett",
+        "indefinite": "blad",
+        "definite": "bladet"
+    },
+    {
+        "eng": "blanket",
+        "swe": "filt",
+        "eg_eng": "With the blanket, we keep warm and cozy when watching TV on the sofa.",
+        "eg_swe": "Med filten håller vi oss varma och mysiga när vi tittar på tv i soffan.",
+        "form": "en",
+        "indefinite": "filt",
+        "definite": "filten"
+    },
+    {
+        "eng": "board",
+        "swe": "bräda",
+        "eg_eng": "The board was covered with notes.",
+        "eg_swe": "Tavlan var täckt med anteckningar.",
+        "form": "en",
+        "indefinite": "Tavla",
+        "definite": "Tavlan"
+    },
+    {
+        "eng": "boat",
+        "swe": "båt",
+        "eg_eng": "A boat sailed on the calm water.",
+        "eg_swe": "En båt seglade på det lugna vattnet.",
+        "form": "en",
+        "indefinite": "båt",
+        "definite": "båten"
+    },
+    {
+        "eng": "body",
+        "swe": "kropp",
+        "eg_eng": "The body needs rest after exercise.",
+        "eg_swe": "Kroppen behöver vila efter träning.",
+        "form": "en",
+        "indefinite": "kropp",
+        "definite": "kroppen"
+    },
+    {
+        "eng": "bone",
+        "swe": "ben",
+        "eg_eng": "A bone lay on the ground.",
+        "eg_swe": "Benet gjorde ont efter den långa vandringen.",
+        "form": "ett",
+        "indefinite": "ben",
+        "definite": "benet"
+    },
+    {
+        "eng": "book",
+        "swe": "bok",
+        "eg_eng": "A book lay on the table.",
+        "eg_swe": "En bok låg på bordet.",
+        "form": "ett",
+        "indefinite": "bok",
+        "definite": "boken"
+    },
+    {
+        "eng": "bookstore",
+        "swe": "bokhandel",
+        "eg_eng": "In the bookstore, there is a wide selection of books from various genres.",
+        "eg_swe": "I bokhandeln finns ett brett utbud av böcker från olika genrer.",
+        "form": "en",
+        "indefinite": "bokhandel",
+        "definite": "bokhandeln"
+    },
+    {
+        "eng": "boot",
+        "swe": "stövel",
+        "eg_eng": "A boot was muddy after the walk.",
+        "eg_swe": "En känga var lerig efter promenaden.",
+        "form": "ett",
+        "indefinite": "stövel",
+        "definite": "stöveln"
+    },
+    {
+        "eng": "bottle",
+        "swe": "flaska",
+        "eg_eng": "The bottle was filled with water.",
+        "eg_swe": "Flaskan fylldes med vatten.",
+        "form": "en",
+        "indefinite": "flaska",
+        "definite": "flaskan"
+    },
+    {
+        "eng": "bowl",
+        "swe": "skål",
+        "eg_eng": "In the bowl, we mix salads and serve snacks for festive occasions.",
+        "eg_swe": "I skålen blandar vi sallader och serverar tilltugg till festliga tillfällen.",
+        "form": "en",
+        "indefinite": "skål",
+        "definite": "skålen"
+    },
+    {
+        "eng": "box",
+        "swe": "låda",
+        "eg_eng": "A box was filled with old letters.",
+        "eg_swe": "Lådan var full av gamla bokstäver.",
+        "form": "en",
+        "indefinite": "låda",
+        "definite": "lådan"
+    },
+    {
+        "eng": "boy",
+        "swe": "pojke",
+        "eg_eng": "The boy played with his dog in the park.",
+        "eg_swe": "Pojken lekte med sin hund i parken.",
+        "form": "en",
+        "indefinite": "pojke",
+        "definite": "pojken"
+    },
+    {
+        "eng": "bracelet",
+        "swe": "armband",
+        "eg_eng": "Oscar gave his girlfriend a bracelet as a gift on their anniversary",
+        "eg_swe": "Oscar gav sin flickvän ett armband i present på deras årsdag",
+        "form": "ett",
+        "indefinite": "armband",
+        "definite": "armbandet"
+    },
+    {
+        "eng": "brain",
+        "swe": "hjärna",
+        "eg_eng": "A brain is a marvelous organ.",
+        "eg_swe": "En hjärna är ett fantastiskt organ.",
+        "form": "ett",
+        "indefinite": "hjärna",
+        "definite": "hjärnan"
+    },
+    {
+        "eng": "brake",
+        "swe": "broms",
+        "eg_eng": "The brake did not work as it should.",
+        "eg_swe": "Bromsen fungerade inte som den skulle.",
+        "form": "en",
+        "indefinite": "broms",
+        "definite": "Bromsen"
+    },
+    {
+        "eng": "branch",
+        "swe": "gren",
+        "eg_eng": "The branch broke off in the storm.",
+        "eg_swe": "Grenen bröts av i stormen.",
+        "form": "en",
+        "indefinite": "gren",
+        "definite": "grenen"
+    },
+    {
+        "eng": "bread",
+        "swe": "bröd",
+        "eg_eng": "The bread is fresh",
+        "eg_swe": "Brödet är färskt",
+        "form": "ett",
+        "indefinite": "bröd",
+        "definite": "brödet"
+    },
+    {
+        "eng": "breakfast",
+        "swe": "frukost",
+        "eg_eng": "The breakfast is healthy",
+        "eg_swe": "Frukosten är hälsosam",
+        "form": "en",
+        "indefinite": "frukost",
+        "definite": "frukosten"
+    },
+    {
+        "eng": "brick",
+        "swe": "tegelsten",
+        "eg_eng": "A brick lay at the construction site.",
+        "eg_swe": "Ett tegel låg vid byggarbetsplatsen.",
+        "form": "ett",
+        "indefinite": "tegel",
+        "definite": "tegelet"
+    },
+    {
+        "eng": "bridge",
+        "swe": "bro",
+        "eg_eng": "The bridge spanned the river.",
+        "eg_swe": "Bron sträckte sig över floden.",
+        "form": "en",
+        "indefinite": "bro",
+        "definite": "bron"
+    },
+    {
+        "eng": "brother",
+        "swe": "bror",
+        "eg_eng": "The brother is older",
+        "eg_swe": "Brodern är äldre",
+        "form": "en",
+        "indefinite": "bror",
+        "definite": "brodern"
+    },
+    {
+        "eng": "brush",
+        "swe": "borste",
+        "eg_eng": "A brush was used to clean the table.",
+        "eg_swe": "Ett borste användes för att rengöra bordet.",
+        "form": "ett",
+        "indefinite": "borste",
+        "definite": "borstet"
+    },
+    {
+        "eng": "bucket",
+        "swe": "hink",
+        "eg_eng": "A bucket was filled with water.",
+        "eg_swe": "En hink fylldes med vatten.",
+        "form": "en",
+        "indefinite": "hink",
+        "definite": "hinken"
+    },
+    {
+        "eng": "building",
+        "swe": "byggnad",
+        "eg_eng": "In the city, tall buildings rise into the sky.",
+        "eg_swe": "I staden reser sig höga byggnader mot himlen.",
+        "form": "en",
+        "indefinite": "byggnad",
+        "definite": "byggnaden"
+    },
+    {
+        "eng": "bulb",
+        "swe": "lampa",
+        "eg_eng": "The bulb needed to be replaced.",
+        "eg_swe": "På lampan sätter vi en glödlampa för att lysa upp rummet när det är mörkt ute.",
+        "form": "en",
+        "indefinite": "lampa",
+        "definite": "lampan"
+    },
+    {
+        "eng": "bus stop",
+        "swe": "busshållplats",
+        "eg_eng": "At the bus stop, passengers get on and off the buses throughout the day.",
+        "eg_swe": "Vid busshållplatsen kliver passagerare på och av bussarna under hela dagen.",
+        "form": "en",
+        "indefinite": "busshållplats",
+        "definite": "busshållplatsen"
+    },
+    {
+        "eng": "business",
+        "swe": "företag",
+        "eg_eng": "The business expanded quickly into new markets.",
+        "eg_swe": "Företaget växte snabbt under de senaste åren.",
+        "form": "ett",
+        "indefinite": "företag",
+        "definite": "företaget"
+    },
+    {
+        "eng": "button",
+        "swe": "knapp",
+        "eg_eng": "The button on the shirt had come loose.",
+        "eg_swe": "Knappen på tröjan hade lossnat.",
+        "form": "en",
+        "indefinite": "knapp",
+        "definite": "knappen"
+    },
+    {
+        "eng": "cafe",
+        "swe": "kafé",
+        "eg_eng": "At the café, one can enjoy coffee and pastries in a relaxed atmosphere.",
+        "eg_swe": "På caféet kan man njuta av kaffe och bakverk i en avslappnad atmosfär.",
+        "form": "ett",
+        "indefinite": "kafé",
+        "definite": "kaféet"
+    },
+    {
+        "eng": "cake",
+        "swe": "tårta",
+        "eg_eng": "A cake was on the table.",
+        "eg_swe": "En tårta stod på bordet.",
+        "form": "en",
+        "indefinite": "tårta",
+        "definite": "tårtan"
+    },
+    {
+        "eng": "camel",
+        "swe": "kamel",
+        "eg_eng": "In the desert, the camel walks far through the sand dunes and carries its load.",
+        "eg_swe": "I öknen går kamelen långt genom sanddynerna och bär sin last.",
+        "form": "en",
+        "indefinite": "kamel",
+        "definite": "kamelen"
+    },
+    {
+        "eng": "camera",
+        "swe": "kamera",
+        "eg_eng": "A camera hung around his neck.",
+        "eg_swe": "En kamera hängde runt hans hals.",
+        "form": "en",
+        "indefinite": "kamera",
+        "definite": "kameran"
+    },
+    {
+        "eng": "campsite",
+        "swe": "campingplats",
+        "eg_eng": "At the campsite, families pitch their tents and enjoy the nature around them.",
+        "eg_swe": "På campingplatsen sätter familjer upp sina tält och njuter av naturen omkring sig.",
+        "form": "en",
+        "indefinite": "campingplats",
+        "definite": "campingplatsen"
+    },
+    {
+        "eng": "candle",
+        "swe": "ljus",
+        "eg_eng": "With the candle, we create a cozy atmosphere in the home during the evenings.",
+        "eg_swe": "Med ljuset skapar vi en mysig stämning i hemmet under kvällarna.",
+        "form": "ett",
+        "indefinite": "ljus",
+        "definite": "ljuset"
+    },
+    {
+        "eng": "candy",
+        "swe": "godis",
+        "eg_eng": "The candy is colorful",
+        "eg_swe": "Godiset är färgglatt",
+        "form": "ett",
+        "indefinite": "godis",
+        "definite": "godiset"
+    },
+    {
+        "eng": "car",
+        "swe": "bil",
+        "eg_eng": "The car didn't start in the morning.",
+        "eg_swe": "Bilen startade inte på morgonen.",
+        "form": "en",
+        "indefinite": "bil",
+        "definite": "bilen"
+    },
+    {
+        "eng": "card",
+        "swe": "kort",
+        "eg_eng": "A card was sent as a greeting.",
+        "eg_swe": "Ett kort skickades som hälsning.",
+        "form": "ett",
+        "indefinite": "kort",
+        "definite": "kortet"
+    },
+    {
+        "eng": "carriage",
+        "swe": "vagn",
+        "eg_eng": "A carriage was pulled by two horses.",
+        "eg_swe": "Vagnen var fylld med varor.",
+        "form": "en",
+        "indefinite": "vagn",
+        "definite": "vagnen"
+    },
+    {
+        "eng": "cart",
+        "swe": "vagn",
+        "eg_eng": "The cart was filled with goods.",
+        "eg_swe": "Vagnen var fylld med varor.",
+        "form": "en",
+        "indefinite": "vagn",
+        "definite": "vagnen"
+    },
+    {
+        "eng": "case",
+        "swe": "fall",
+        "eg_eng": "The case was thoroughly investigated by the police.",
+        "eg_swe": "Fallet utreddes noggrant av polisen.",
+        "form": "ett",
+        "indefinite": "fall",
+        "definite": "fallet"
+    },
+    {
+        "eng": "cat",
+        "swe": "katt",
+        "eg_eng": "The cat slept in the sun.",
+        "eg_swe": "Katten sov i solen.",
+        "form": "en",
+        "indefinite": "katt",
+        "definite": "katten"
+    },
+    {
+        "eng": "chain",
+        "swe": "kedja",
+        "eg_eng": "A chain kept the gate closed.",
+        "eg_swe": "En kedja höll porten stängd.",
+        "form": "en",
+        "indefinite": "kedja",
+        "definite": "kedjan"
+    },
+    {
+        "eng": "chair",
+        "swe": "stol",
+        "eg_eng": "On the chair, we sit when having breakfast and reading the newspaper in the morning.",
+        "eg_swe": "På stolen sitter vi när vi äter frukost och läser tidningen på morgonen.",
+        "form": "en",
+        "indefinite": "stol",
+        "definite": "stolen"
+    },
+    {
+        "eng": "change",
+        "swe": "förändringen",
+        "eg_eng": "The change in the company was necessary.",
+        "eg_swe": "Förändringen i företaget var nödvändig.",
+        "form": "en",
+        "indefinite": "förändring",
+        "definite": "förändringen"
+    },
+    {
+        "eng": "cheese",
+        "swe": "ost",
+        "eg_eng": "A cheese lay on the plate.",
+        "eg_swe": "En ost låg på tallriken.",
+        "form": "ett",
+        "indefinite": "ost",
+        "definite": "osten"
+    },
+    {
+        "eng": "chess",
+        "swe": "schack",
+        "eg_eng": "A chess game awaited the players.",
+        "eg_swe": "Ett schackspel väntade på spelarna.",
+        "form": "ett",
+        "indefinite": "schack",
+        "definite": "schacket"
+    },
+    {
+        "eng": "chicken",
+        "swe": "kyckling",
+        "eg_eng": "In the yard, the chicken pecks around and clucks for her chicks.",
+        "eg_swe": "På gården pickar kycklingen runt och klappar efter sina ungar.",
+        "form": "en",
+        "indefinite": "kyckling",
+        "definite": "kycklingen"
+    },
+    {
+        "eng": "child",
+        "swe": "barn",
+        "eg_eng": "The child played with its toys.",
+        "eg_swe": "Barnet lekte med sina vänner i parken.",
+        "form": "ett",
+        "indefinite": "barn",
+        "definite": "ungen"
+    },
+    {
+        "eng": "chin",
+        "swe": "haka",
+        "eg_eng": "The chin was covered by a small scar.",
+        "eg_swe": "Hakan var täckt av ett litet ärr.",
+        "form": "en",
+        "indefinite": "haka",
+        "definite": "hakan"
+    },
+    {
+        "eng": "chocolate",
+        "swe": "choklad",
+        "eg_eng": "The chocolate is sweet",
+        "eg_swe": "Chokladen är söt",
+        "form": "en",
+        "indefinite": "choklad",
+        "definite": "chokladen"
+    },
+    {
+        "eng": "church",
+        "swe": "kyrka",
+        "eg_eng": "The church was built in the 18th century.",
+        "eg_swe": "Kyrkan byggdes på 1700-talet.",
+        "form": "en",
+        "indefinite": "kyrka",
+        "definite": "kyrkan"
+    },
+    {
+        "eng": "cinema",
+        "swe": "biograf",
+        "eg_eng": "At the cinema, various movies are shown to an audience that loves watching films.",
+        "eg_swe": "På biografen kan man se de senaste filmerna på en stor skärm med bra ljud.",
+        "form": "en",
+        "indefinite": "biograf",
+        "definite": "biografen"
+    },
+    {
+        "eng": "circle",
+        "swe": "cirkel",
+        "eg_eng": "A circle was drawn on the paper.",
+        "eg_swe": "En cirkel ritades på pappret.",
+        "form": "en",
+        "indefinite": "cirkel",
+        "definite": "cirkeln"
+    },
+    {
+        "eng": "city",
+        "swe": "stad",
+        "eg_eng": "The city was known for its historic buildings.",
+        "eg_swe": "Staden var liten men charmig.",
+        "form": "en",
+        "indefinite": "stad",
+        "definite": "staden"
+    },
+    {
+        "eng": "clinic",
+        "swe": "klinik",
+        "eg_eng": "At the clinic, patients receive medical treatment and care from specialized doctors.",
+        "eg_swe": "På kliniken får patienterna medicinsk behandling och vård av specialistläkare.",
+        "form": "en",
+        "indefinite": "klinik",
+        "definite": "kliniken"
+    },
+    {
+        "eng": "clock",
+        "swe": "klocka",
+        "eg_eng": "A clock hung on the wall.",
+        "eg_swe": "En klocka hängde på väggen.",
+        "form": "ett",
+        "indefinite": "klocka",
+        "definite": "klockan"
+    },
+    {
+        "eng": "cloud",
+        "swe": "moln",
+        "eg_eng": "A cloud obscured the sun.",
+        "eg_swe": "Ett moln skymde solen.",
+        "form": "ett",
+        "indefinite": "moln",
+        "definite": "molnet"
+    },
+    {
+        "eng": "coat",
+        "swe": "kappan",
+        "eg_eng": "The coat hung in the hallway.",
+        "eg_swe": "Kappan hängde i hallen.",
+        "form": "en",
+        "indefinite": "kappa",
+        "definite": "kappan"
+    },
+    {
+        "eng": "coffee",
+        "swe": "kaffe",
+        "eg_eng": "The coffee is hot",
+        "eg_swe": "Kaffet är varmt",
+        "form": "ett",
+        "indefinite": "kaffe",
+        "definite": "kaffet"
+    },
+    {
+        "eng": "collar",
+        "swe": "krage",
+        "eg_eng": "The collar on the shirt was dirty.",
+        "eg_swe": "Kragen på tröjan var smutsig.",
+        "form": "en",
+        "indefinite": "krage",
+        "definite": "kragen"
+    },
+    {
+        "eng": "college",
+        "swe": "högskola",
+        "eg_eng": "At college, students have the opportunity to delve deeper into various subjects.",
+        "eg_swe": "På college får studenterna möjlighet att fördjupa sig inom olika ämnen.",
+        "form": "en",
+        "indefinite": "högskola",
+        "definite": "högskolan"
+    },
+    {
+        "eng": "comb",
+        "swe": "kam",
+        "eg_eng": "A comb lay on the counter.",
+        "eg_swe": "En kam låg på bänken.",
+        "form": "ett",
+        "indefinite": "kam",
+        "definite": "kammen"
+    },
+    {
+        "eng": "community",
+        "swe": "samhälle",
+        "eg_eng": "The community worked together to improve the area.",
+        "eg_swe": "Samhället arbetade tillsammans för att förbättra området.",
+        "form": "et",
+        "indefinite": "samhälle",
+        "definite": "samhället"
+    },
+    {
+        "eng": "company",
+        "swe": "företag",
+        "eg_eng": "The company grew rapidly over the past few years.",
+        "eg_swe": "Företaget växte snabbt under de senaste åren.",
+        "form": "ett",
+        "indefinite": "företag",
+        "definite": "företaget"
+    },
+    {
+        "eng": "computer",
+        "swe": "dator",
+        "eg_eng": "On the computer, we work, browse the internet, and keep in touch with friends and family via social media.",
+        "eg_swe": "På datorn jobbar vi, surfar på internet och håller kontakten med vänner och familj via sociala medier.",
+        "form": "en",
+        "indefinite": "dator",
+        "definite": "datorn"
+    },
+    {
+        "eng": "concert hall",
+        "swe": "konsertsal",
+        "eg_eng": "In the concert hall, musicians and artists perform in front of an enthusiastic audience.",
+        "eg_swe": "I konsertsalen uppträder musiker och artister inför en entusiastisk publik.",
+        "form": "en",
+        "indefinite": "konsertsal",
+        "definite": "konsertsalen"
+    },
+    {
+        "eng": "continent",
+        "swe": "kontinent",
+        "eg_eng": "On the continents, people from different countries with different languages and cultures live.",
+        "eg_swe": "På kontinenterna bor människor från olika länder med olika språk och kulturer.",
+        "form": "ett",
+        "indefinite": "kontinent",
+        "definite": "kontinenten"
+    },
+    {
+        "eng": "cookie",
+        "swe": "kaka",
+        "eg_eng": "The cookie is tasty",
+        "eg_swe": "Kakan är välsmakande",
+        "form": "en",
+        "indefinite": "kaka",
+        "definite": "kakan"
+    },
+    {
+        "eng": "cord",
+        "swe": "sladd",
+        "eg_eng": "A cord was used to tie the package.",
+        "eg_swe": "Ett sladd användes för att knyta paketet.",
+        "form": "en",
+        "indefinite": "sladd",
+        "definite": "sladden"
+    },
+    {
+        "eng": "country",
+        "swe": "land",
+        "eg_eng": "The country celebrated its national day.",
+        "eg_swe": "Landet firade sin nationaldag.",
+        "form": "ett",
+        "indefinite": "land",
+        "definite": "landet"
+    },
+    {
+        "eng": "countryside",
+        "swe": "landsbygd",
+        "eg_eng": "In the countryside, the fields spread out, and the forest stretches far away.",
+        "eg_swe": "På landsbygden breder fälten ut sig, och skogen sträcker sig långt bort.",
+        "form": "en",
+        "indefinite": "landsbygd",
+        "definite": "landsbygden"
+    },
+    {
+        "eng": "cow",
+        "swe": "ko",
+        "eg_eng": "The cow grazed in the meadow.",
+        "eg_swe": "Kon betade på ängen.",
+        "form": "en",
+        "indefinite": "ko",
+        "definite": "kon"
+    },
+    {
+        "eng": "crocodile",
+        "swe": "krokodil",
+        "eg_eng": "In the river, the crocodile lurks in the water and waits for its prey.",
+        "eg_swe": "I floden lurar krokodilen i vattnet och väntar på sitt byte.",
+        "form": "en",
+        "indefinite": "krokodil",
+        "definite": "krokodilen"
+    },
+    {
+        "eng": "cup",
+        "swe": "kopp",
+        "eg_eng": "The cup was filled with coffee.",
+        "eg_swe": "Bägaren var fylld med kaffe.",
+        "form": "en",
+        "indefinite": "kopp",
+        "definite": "koppen"
+    },
+    {
+        "eng": "curtain",
+        "swe": "gardin",
+        "eg_eng": "A curtain hung in front of the window.",
+        "eg_swe": "En gardin hängde framför fönstret.",
+        "form": "en",
+        "indefinite": "gardin",
+        "definite": "gardinen"
+    },
+    {
+        "eng": "cushion",
+        "swe": "kudde",
+        "eg_eng": "A cushion lay on the sofa.",
+        "eg_swe": "På kudden vilar vi huvudet när vi ligger ner och läser en bok i sängen.",
+        "form": "en",
+        "indefinite": "kudde",
+        "definite": "kudden"
+    },
+    {
+        "eng": "cutlery",
+        "swe": "bestick",
+        "eg_eng": "With the utensils, we eat meals and mix ingredients when cooking.",
+        "eg_swe": "Med redskapen äter vi måltider och blandar ingredienser när vi lagar mat.",
+        "form": "en",
+        "indefinite": "bestick",
+        "definite": "besticken"
+    },
+    {
+        "eng": "day",
+        "swe": "dag",
+        "eg_eng": "The day started with sunshine.",
+        "eg_swe": "Dagen började med solsken.",
+        "form": "en",
+        "indefinite": "dag",
+        "definite": "dagen"
+    },
+    {
+        "eng": "deer",
+        "swe": "rådjur",
+        "eg_eng": "In the forest, the deer grazes on grass and rests under the trees during the day.",
+        "eg_swe": "I skogen betar rådjuren gräs och vilar under träden under dagen.",
+        "form": "en",
+        "indefinite": "rådjur",
+        "definite": "rådjuren"
+    },
+    {
+        "eng": "dinner",
+        "swe": "middag",
+        "eg_eng": "The dinner is served",
+        "eg_swe": "Middagen serveras",
+        "form": "en",
+        "indefinite": "middag",
+        "definite": "middagen"
+    },
+    {
+        "eng": "dishwasher",
+        "swe": "diskmaskin",
+        "eg_eng": "In the dishwasher, we wash dishes, utensils, and kitchenware after every meal.",
+        "eg_swe": "I diskmaskinen diskar vi disk, redskap och köksutrustning efter varje måltid.",
+        "form": "en",
+        "indefinite": "diskmaskin",
+        "definite": "diskmaskinen"
+    },
+    {
+        "eng": "doctor",
+        "swe": "läkare",
+        "eg_eng": "The doctor is busy",
+        "eg_swe": "Läkaren är upptagen",
+        "form": "en",
+        "indefinite": "läkare",
+        "definite": "läkaren"
+    },
+    {
+        "eng": "dog",
+        "swe": "hund",
+        "eg_eng": "The dog ran in the park.",
+        "eg_swe": "Hunden sprang i parken.",
+        "form": "en",
+        "indefinite": "hund",
+        "definite": "hunden"
+    },
+    {
+        "eng": "dolphin",
+        "swe": "delfin",
+        "eg_eng": "In the ocean, the dolphin swims quickly through the water and jumps over the waves.",
+        "eg_swe": "I havet simmar delfinen snabbt genom vattnet och hoppar över vågorna.",
+        "form": "en",
+        "indefinite": "delfin",
+        "definite": "delfinen"
+    },
+    {
+        "eng": "door",
+        "swe": "dörr",
+        "eg_eng": "The door was painted blue.",
+        "eg_swe": "Dörren var målad blå.",
+        "form": "en",
+        "indefinite": "dörr",
+        "definite": "dörren"
+    },
+    {
+        "eng": "drain",
+        "swe": "avlopp",
+        "eg_eng": "The drain was blocked by leaves.",
+        "eg_swe": "Avloppet var blockerat av löv.",
+        "form": "ett",
+        "indefinite": "avlopp",
+        "definite": "avloppet"
+    },
+    {
+        "eng": "drawer",
+        "swe": "låda",
+        "eg_eng": "The drawer was full of old letters.",
+        "eg_swe": "Lådan var full av gamla bokstäver.",
+        "form": "en",
+        "indefinite": "låda",
+        "definite": "lådan"
+    },
+    {
+        "eng": "dress",
+        "swe": "klänning",
+        "eg_eng": "A dress hung in the wardrobe.",
+        "eg_swe": "En klänning hängde i garderoben.",
+        "form": "eb",
+        "indefinite": "klänning",
+        "definite": "klänningen"
+    },
+    {
+        "eng": "drink",
+        "swe": "dryck",
+        "eg_eng": "The drink is cold",
+        "eg_swe": "Drycken är kall",
+        "form": "en",
+        "indefinite": "dryck",
+        "definite": "drycken"
+    },
+    {
+        "eng": "drop",
+        "swe": "droppe",
+        "eg_eng": "A drop of water fell from the faucet.",
+        "eg_swe": "Ett droppe vatten föll från kranen.",
+        "form": "ett",
+        "indefinite": "droppe",
+        "definite": "droppet"
+    },
+    {
+        "eng": "duck",
+        "swe": "anka",
+        "eg_eng": "In the pond, the ducks swim back and forth with their ducklings.",
+        "eg_swe": "I dammen simmar ankorna fram och tillbaka med sina ankungar.",
+        "form": "en",
+        "indefinite": "anka",
+        "definite": "ankan"
+    },
+    {
+        "eng": "ear",
+        "swe": "öra",
+        "eg_eng": "An ear listened attentively to the music.",
+        "eg_swe": "Ett öra lyssnade uppmärksamt på musiken.",
+        "form": "ett",
+        "indefinite": "öra",
+        "definite": "örat"
+    },
+    {
+        "eng": "education",
+        "swe": "utbildning",
+        "eg_eng": "Education is the key to the future.",
+        "eg_swe": "Utbildning är nyckeln till framtiden.",
+        "form": "en",
+        "indefinite": "utbildning",
+        "definite": "utbildningen"
+    },
+    {
+        "eng": "egg",
+        "swe": "ägg",
+        "eg_eng": "An egg was boiled for breakfast.",
+        "eg_swe": "Ett ägg kokades till frukost.",
+        "form": "ett",
+        "indefinite": "ägg",
+        "definite": "ägget"
+    },
+    {
+        "eng": "elephant",
+        "swe": "elefant",
+        "eg_eng": "In the jungle, the elephant walks slowly through the tall grass.",
+        "eg_swe": "I djungeln går elefanten sakta genom det höga gräset.",
+        "form": "en",
+        "indefinite": "elefant",
+        "definite": "elefanten"
+    },
+    {
+        "eng": "end",
+        "swe": "slut",
+        "eg_eng": "The end of the movie was surprising.",
+        "eg_swe": "Slutet på filmen var överraskande.",
+        "form": "ett",
+        "indefinite": "slutet"
+    },
+    {
+        "eng": "engine",
+        "swe": "motor",
+        "eg_eng": "An engine started with a roar.",
+        "eg_swe": "En motor startade med ett dån.",
+        "form": "en",
+        "indefinite": "motor",
+        "definite": "motorn"
+    },
+    {
+        "eng": "evening",
+        "swe": "kväll",
+        "eg_eng": "The evening is pleasant",
+        "eg_swe": "Kvällen är trevlig",
+        "form": "en",
+        "indefinite": "kväll",
+        "definite": "kvällen"
+    },
+    {
+        "eng": "eye",
+        "swe": "öga",
+        "eg_eng": "An eye stared at the screen.",
+        "eg_swe": "Ett öga stirrade på skärmen.",
+        "form": "ett",
+        "indefinite": "öga",
+        "definite": "ögat"
+    },
+    {
+        "eng": "face",
+        "swe": "ansikte",
+        "eg_eng": "A face looked back from the mirror.",
+        "eg_swe": "Ett ansikte tittade tillbaka från spegeln.",
+        "form": "ett",
+        "indefinite": "ansikte",
+        "definite": "ansiktet"
+    },
+    {
+        "eng": "fact",
+        "swe": "faktum",
+        "eg_eng": "The fact is that we need to work harder.",
+        "eg_swe": "Faktumet är att vi måste arbeta hårdare.",
+        "form": "ett",
+        "indefinite": "faktum",
+        "definite": "faktumet"
+    },
+    {
+        "eng": "factory",
+        "swe": "fabrik",
+        "eg_eng": "In the factory, products of various kinds are manufactured using advanced technology.",
+        "eg_swe": "I fabriken tillverkas produkter av olika slag med hjälp av avancerad teknik.",
+        "form": "en",
+        "indefinite": "fabrik",
+        "definite": "fabriken"
+    },
+    {
+        "eng": "family",
+        "swe": "familj",
+        "eg_eng": "The family gathered for dinner.",
+        "eg_swe": "Familjen samlades för middag.",
+        "form": "en",
+        "indefinite": "familj",
+        "definite": "familjen"
+    },
+    {
+        "eng": "farm",
+        "swe": "gård",
+        "eg_eng": "The farm was large and full of animals.",
+        "eg_swe": "Gården var stor och full av djur.",
+        "form": "en",
+        "indefinite": "gård",
+        "definite": "gården"
+    },
+    {
+        "eng": "father",
+        "swe": "fader",
+        "eg_eng": "The father read a story to his child.",
+        "eg_swe": "Fadern läste en saga för sitt barn.",
+        "form": "en",
+        "indefinite": "fader",
+        "definite": "fadern"
+    },
+    {
+        "eng": "feather",
+        "swe": "fjäder",
+        "eg_eng": "A feather flew away in the wind.",
+        "eg_swe": "En fjäder flög iväg i vinden.",
+        "form": "en",
+        "indefinite": "fjäder",
+        "definite": "fjädern"
+    },
+    {
+        "eng": "finger",
+        "swe": "finger",
+        "eg_eng": "A finger pointed at the map.",
+        "eg_swe": "Ett finger pekade på kartan.",
+        "form": "ett",
+        "indefinite": "finger",
+        "definite": "fingret"
+    },
+    {
+        "eng": "fish",
+        "swe": "fisk",
+        "eg_eng": "The fish swam in the lake.",
+        "eg_swe": "Fiskarna simmade i sjön.",
+        "form": "en",
+        "indefinite": "fisk",
+        "definite": "fisken"
+    },
+    {
+        "eng": "flag",
+        "swe": "flagga",
+        "eg_eng": "A flag waved in the wind.",
+        "eg_swe": "En flagga vajade i vinden.",
+        "form": "en",
+        "indefinite": "flagga",
+        "definite": "flaggan"
+    },
+    {
+        "eng": "flamingo",
+        "swe": "flamingo",
+        "eg_eng": "By the lake, the flamingo wades around in the water and looks for small crayfish to eat.",
+        "eg_swe": "Vid sjön vadar flamingon runt i vattnet och letar efter små kräftor att äta.",
+        "form": "en",
+        "indefinite": "flamingo",
+        "definite": "flamingon"
+    },
+    {
+        "eng": "floor",
+        "swe": "golv",
+        "eg_eng": "The floor was newly polished and shiny.",
+        "eg_swe": "Golvet var nypolerat och blankt.",
+        "form": "ett",
+        "indefinite": "golv",
+        "definite": "golvet"
+    },
+    {
+        "eng": "flower",
+        "swe": "blomma",
+        "eg_eng": "In the garden, the flower blooms beautifully in the summer.",
+        "eg_swe": "I trädgården en blomma blommorna vackert på sommaren.",
+        "form": "en",
+        "indefinite": "blomma",
+        "definite": "blomman"
+    },
+    {
+        "eng": "fly",
+        "swe": "fluga",
+        "eg_eng": "The fly buzzed around the room.",
+        "eg_swe": "Flugan surrade runt i rummet.",
+        "form": "en",
+        "indefinite": "fluga",
+        "definite": "flugan"
+    },
+    {
+        "eng": "food",
+        "swe": "mat",
+        "eg_eng": "The food is ready",
+        "eg_swe": "Maten är klar",
+        "form": "en",
+        "indefinite": "mat",
+        "definite": "maten"
+    },
+    {
+        "eng": "foot",
+        "swe": "fot",
+        "eg_eng": "A foot stepped on the ground.",
+        "eg_swe": "En fot trampade i marken.",
+        "form": "en",
+        "indefinite": "fot",
+        "definite": "foten"
+    },
+    {
+        "eng": "power",
+        "swe": "makt",
+        "eg_eng": "We know that no one ever seizes power with the intention of relinquishing it.",
+        "eg_swe": "Vi vet att ingen någonsin tar makten i avsikt att avstå från den.",
+        "form": "en",
+        "indefinite": "makt",
+        "definite": "makten"
+    },
+    {
+        "eng": "forest",
+        "swe": "skog",
+        "eg_eng": "In the forest, pine trees, spruces, and deciduous trees grow in a lush mixture.",
+        "eg_swe": "I skogen växer tallar, granar och lövträd i en frodig blandning.",
+        "form": "en",
+        "indefinite": "skog",
+        "definite": "skogen"
+    },
+    {
+        "eng": "fork",
+        "swe": "gaffel",
+        "eg_eng": "A fork lay next to the plate.",
+        "eg_swe": "En gaffel låg bredvid tallriken.",
+        "form": "en",
+        "indefinite": "gaffel",
+        "definite": "gaffeln"
+    },
+    {
+        "eng": "fowl",
+        "swe": "fågel",
+        "eg_eng": "The fowl flapped its wings.",
+        "eg_swe": "Fågeln flaxade med vingarna.",
+        "form": "en",
+        "indefinite": "fågel",
+        "definite": "fågeln"
+    },
+    {
+        "eng": "fox",
+        "swe": "räv",
+        "eg_eng": "In the forest, the fox sneaks around among the bushes and looks for prey.",
+        "eg_swe": "I skogen smyger räven runt bland buskarna och letar efter byten.",
+        "form": "en",
+        "indefinite": "räv",
+        "definite": "räven"
+    },
+    {
+        "eng": "frame",
+        "swe": "ram",
+        "eg_eng": "A frame surrounded the photo.",
+        "eg_swe": "En ram omgav fotot.",
+        "form": "ett",
+        "indefinite": "ram",
+        "definite": "ramen"
+    },
+    {
+        "eng": "freezer",
+        "swe": "frys",
+        "eg_eng": "In the freezer, we store frozen foods such as meat, fish, and vegetables.",
+        "eg_swe": "I frysen förvarar vi frysta livsmedel som kött, fisk och grönsaker.",
+        "form": "en",
+        "indefinite": "frys",
+        "definite": "frysen"
+    },
+    {
+        "eng": "friend",
+        "swe": "vän",
+        "eg_eng": "The friend supported her through tough times.",
+        "eg_swe": "Vännen stöttade henne genom tuffa tider.",
+        "form": "en",
+        "indefinite": "vän",
+        "definite": "vännen"
+    },
+    {
+        "eng": "fruit",
+        "swe": "frukt",
+        "eg_eng": "The fruit is fresh",
+        "eg_swe": "Frukten är färsk",
+        "form": "en",
+        "indefinite": "frukt",
+        "definite": "frukten"
+    },
+    {
+        "eng": "frying pan",
+        "swe": "stekpanna",
+        "eg_eng": "In the frying pan, we fry meat, vegetables, and eggs for breakfast.",
+        "eg_swe": "I stekpannan steker vi kött, grönsaker och ägg till frukost.",
+        "form": "en",
+        "indefinite": "stekpanna",
+        "definite": "stekpannan"
+    },
+    {
+        "eng": "gallery",
+        "swe": "galleri",
+        "eg_eng": "In the gallery, artworks by local and international artists are exhibited.",
+        "eg_swe": "I galleriet ställs konstverk av lokala och internationella konstnärer ut.",
+        "form": "ett",
+        "indefinite": "galleri",
+        "definite": "galleriet"
+    },
+    {
+        "eng": "game",
+        "swe": "spel",
+        "eg_eng": "The game was exciting and entertaining.",
+        "eg_swe": "Spelet var spännande och underhållande.",
+        "form": "ett",
+        "indefinite": "spel",
+        "definite": "spelet"
+    },
+    {
+        "eng": "garden",
+        "swe": "trädgård",
+        "eg_eng": "The garden was full of flowers.",
+        "eg_swe": "Trädgården var full av blommor.",
+        "form": "en",
+        "indefinite": "trädgård",
+        "definite": "trädgården"
+    },
+    {
+        "eng": "giraffe",
+        "swe": "giraff",
+        "eg_eng": "On the savanna, the giraffe stretches to reach leaves high up in the trees.",
+        "eg_swe": "På savannen sträcker sig giraffen för att nå löv högt upp i träden.",
+        "form": "en",
+        "indefinite": "giraff",
+        "definite": "giraffen"
+    },
+    {
+        "eng": "girl",
+        "swe": "flicka",
+        "eg_eng": "The girl played with her friends.",
+        "eg_swe": "Flickan lekte med sina vänner.",
+        "form": "en",
+        "indefinite": "flicka",
+        "definite": "flickan"
+    },
+    {
+        "eng": "girlfriend",
+        "swe": "flickvän",
+        "eg_eng": "Jenny is my girlfriend, she likes marshmallows.",
+        "eg_swe": "Jenny är min flickvän, hon gillar marshmallows.",
+        "form": "en",
+        "indefinite": "flickvän",
+        "definite": "flickvännen"
+    },
+    {
+        "eng": "glass",
+        "swe": "glas",
+        "eg_eng": "In the glass, we drink water, juice, and soda to quench our thirst.",
+        "eg_swe": "I glaset dricker vi vatten, juice och läsk för att släcka törsten.",
+        "form": "ett",
+        "indefinite": "glas",
+        "definite": "glaset"
+    },
+    {
+        "eng": "glove",
+        "swe": "handske",
+        "eg_eng": "A glove lay on the floor.",
+        "eg_swe": "En handske låg på golvet.",
+        "form": "en",
+        "indefinite": "handske",
+        "definite": "handsken"
+    },
+    {
+        "eng": "goat",
+        "swe": "get",
+        "eg_eng": "The goat grazed in the field.",
+        "eg_swe": "Geten betade på fältet.",
+        "form": "en",
+        "indefinite": "get",
+        "definite": "geten"
+    },
+    {
+        "eng": "gorilla",
+        "swe": "gorilla",
+        "eg_eng": "In the rainforest, the gorilla climbs up the trees and plays with its young.",
+        "eg_swe": "I regnskogen klättrar gorillan upp i träden och leker med sina ungar.",
+        "form": "en",
+        "indefinite": "gorilla",
+        "definite": "gorillan"
+    },
+    {
+        "eng": "government",
+        "swe": "regering",
+        "eg_eng": "The government decided on new laws.",
+        "eg_swe": "Regeringen beslutade om nya lagar.",
+        "form": "en",
+        "indefinite": "regering",
+        "definite": "regeringen"
+    },
+    {
+        "eng": "group",
+        "swe": "grupp",
+        "eg_eng": "The group met every Friday.",
+        "eg_swe": "Gruppen träffades varje fredag.",
+        "form": "en",
+        "indefinite": "grupp",
+        "definite": "gruppen"
+    },
+    {
+        "eng": "gun",
+        "swe": "gevär",
+        "eg_eng": "A gun hung on the wall.",
+        "eg_swe": "Ett gevär hängde på väggen.",
+        "form": "ett",
+        "indefinite": "gevär",
+        "definite": "geväret"
+    },
+    {
+        "eng": "guy",
+        "swe": "kille",
+        "eg_eng": "The guy from the neighborhood became a famous musician.",
+        "eg_swe": "Killen från grannskapet blev en känd musiker.",
+        "form": "en",
+        "indefinite": "kille",
+        "definite": "killen"
+    },
+    {
+        "eng": "gym",
+        "swe": "gym",
+        "eg_eng": "At the gym, people exercise to stay fit and healthy.",
+        "eg_swe": "På gymmet tränar folk för att hålla sig i form och friska.",
+        "form": "ett",
+        "indefinite": "gym",
+        "definite": "gymmet"
+    },
+    {
+        "eng": "hair",
+        "swe": "hår",
+        "eg_eng": "The hair was long and shiny.",
+        "eg_swe": "Håret var långt och glänsande.",
+        "form": "ett",
+        "indefinite": "hår",
+        "definite": "håret"
+    },
+    {
+        "eng": "hammer",
+        "swe": "hammare",
+        "eg_eng": "The hammer was used to drive in the nail.",
+        "eg_swe": "Hammaren användes för att slå in spiken.",
+        "form": "en",
+        "indefinite": "hammare",
+        "definite": "hammaren"
+    },
+    {
+        "eng": "hand",
+        "swe": "hand",
+        "eg_eng": "The hand was covered in paint.",
+        "eg_swe": "Handen var täckt av färg.",
+        "form": "en",
+        "indefinite": "hand",
+        "definite": "handen"
+    },
+    {
+        "eng": "hat",
+        "swe": "hatt",
+        "eg_eng": "The hat flew off in the wind.",
+        "eg_swe": "Hatten flög av i vinden.",
+        "form": "en",
+        "indefinite": "hatt",
+        "definite": "hatten"
+    },
+    {
+        "eng": "head",
+        "swe": "huvud",
+        "eg_eng": "The head hurt after the blow.",
+        "eg_swe": "Huvudet gjorde ont efter slaget.",
+        "form": "ett",
+        "indefinite": "huvud",
+        "definite": "huvudet"
+    },
+    {
+        "eng": "health",
+        "swe": "hälsa",
+        "eg_eng": "Health is more important than money.",
+        "eg_swe": "Hälsa är viktigare än pengar.",
+        "form": "en",
+        "indefinite": "hälsa",
+        "definite": "hälsan"
+    },
+    {
+        "eng": "heart",
+        "swe": "hjärta",
+        "eg_eng": "The heart pounded quickly with fear.",
+        "eg_swe": "Hjärtat bultade snabbt av rädsla.",
+        "form": "ett",
+        "indefinite": "hjärta",
+        "definite": "hjärtat"
+    },
+    {
+        "eng": "hill",
+        "swe": "kulle",
+        "eg_eng": "Up the hill, children run and play in the sun.",
+        "eg_swe": "Uppför kullen springer barnen och leker i solen.",
+        "form": "en",
+        "indefinite": "kulle",
+        "definite": "kullen"
+    },
+    {
+        "eng": "hippopotamus",
+        "swe": "flodhäst",
+        "eg_eng": "In the river, the hippopotamus swims peacefully and stays cool in the water.",
+        "eg_swe": "I floden simmar flodhästen fridfullt och håller sig sval i vattnet.",
+        "form": "en",
+        "indefinite": "flodhäst",
+        "definite": "flodhästen"
+    },
+    {
+        "eng": "history",
+        "swe": "historia",
+        "eg_eng": "The history of the country is fascinating.",
+        "eg_swe": "Landets historia är fascinerande.",
+        "form": "en",
+        "indefinite": "historia",
+        "definite": "historien"
+    },
+    {
+        "eng": "home",
+        "swe": "hem",
+        "eg_eng": "The home was warm and inviting.",
+        "eg_swe": "Hemmet var varmt och inbjudande.",
+        "form": "ett",
+        "indefinite": "hem",
+        "definite": "hemmet"
+    },
+    {
+        "eng": "hook",
+        "swe": "krok",
+        "eg_eng": "The hook held the fishing line.",
+        "eg_swe": "Kroken höll i fiskelinan.",
+        "form": "en",
+        "indefinite": "krok",
+        "definite": "kroken"
+    },
+    {
+        "eng": "horn",
+        "swe": "horn",
+        "eg_eng": "The horn sounded through the valley.",
+        "eg_swe": "Hornet ljöd genom dalen.",
+        "form": "ett",
+        "indefinite": "horn",
+        "definite": "hornet"
+    },
+    {
+        "eng": "horse",
+        "swe": "häst",
+        "eg_eng": "The horse galloped across the field.",
+        "eg_swe": "Hästen galopperade över fältet.",
+        "form": "en",
+        "indefinite": "häst",
+        "definite": "hästen"
+    },
+    {
+        "eng": "hospital",
+        "swe": "sjukhus",
+        "eg_eng": "The hospital was newly built and modern.",
+        "eg_swe": "Sjukhuset var nybyggt och modernt.",
+        "form": "ett",
+        "indefinite": "sjukhus",
+        "definite": "sjukhuset"
+    },
+    {
+        "eng": "hostel",
+        "swe": "vandrarhem",
+        "eg_eng": "At the hostel, travelers looking for affordable accommodation stay during their trip.",
+        "eg_swe": "På vandrarhemmet bor resenärer som letar efter prisvärt boende under sin resa.",
+        "form": "ett",
+        "indefinite": "vandrarhem",
+        "definite": "vandrarhemmet"
+    },
+    {
+        "eng": "hotel",
+        "swe": "hotell",
+        "eg_eng": "At the hotel, guests from different parts of the world stay during their visit to the city.",
+        "eg_swe": "På hotellet bor gäster från olika delar av världen under sitt besök i staden.",
+        "form": "ett",
+        "indefinite": "hotell",
+        "definite": "hotellet"
+    },
+    {
+        "eng": "hour",
+        "swe": "timme",
+        "eg_eng": "The hours flew by as they worked.",
+        "eg_swe": "Timmarna flög iväg när de jobbade.",
+        "form": "en",
+        "indefinite": "timme",
+        "definite": "timmen"
+    },
+    {
+        "eng": "house",
+        "swe": "hus",
+        "eg_eng": "The house was built in the 1800s.",
+        "eg_swe": "Huset byggdes på 1800-talet.",
+        "form": "ett",
+        "indefinite": "hus",
+        "definite": "huset"
+    },
+    {
+        "eng": "ice cream",
+        "swe": "glass",
+        "eg_eng": "The ice cream is cold",
+        "eg_swe": "Glassen är kall",
+        "form": "en",
+        "indefinite": "glass",
+        "definite": "glassen"
+    },
+    {
+        "eng": "idea",
+        "swe": "idé",
+        "eg_eng": "The idea grew into a successful project.",
+        "eg_swe": "Idén växte till ett framgångsrikt projekt.",
+        "form": "en",
+        "indefinite": "idé",
+        "definite": "idén"
+    },
+    {
+        "eng": "information",
+        "swe": "information",
+        "eg_eng": "The information was crucial for the decision.",
+        "eg_swe": "Informationen var avgörande för beslutet.",
+        "form": "en",
+        "indefinite": "information",
+        "definite": "informationen"
+    },
+    {
+        "eng": "island",
+        "swe": "ö",
+        "eg_eng": "The island was covered with dense forest.",
+        "eg_swe": "Ön var täckt av tät skog.",
+        "form": "en",
+        "indefinite": "ö",
+        "definite": "ön"
+    },
+    {
+        "eng": "jewel",
+        "swe": "juvel",
+        "eg_eng": "The jewel sparkled in the light.",
+        "eg_swe": "Juvelen gnistrade i ljuset.",
+        "form": "en",
+        "indefinite": "juvel",
+        "definite": "juvelen"
+    },
+    {
+        "eng": "job",
+        "swe": "jobb",
+        "eg_eng": "The job was demanding but rewarding.",
+        "eg_swe": "Jobbet var krävande men givande.",
+        "form": "ett",
+        "indefinite": "jobb",
+        "definite": "jobbet"
+    },
+    {
+        "eng": "juice",
+        "swe": "juice",
+        "eg_eng": "The juice is fresh",
+        "eg_swe": "Juicen är färsk",
+        "form": "en",
+        "indefinite": "juice",
+        "definite": "juicen"
+    },
+    {
+        "eng": "kangaroo",
+        "swe": "känguru",
+        "eg_eng": "On the savanna, the kangaroo hops around with its joey in its pouch.",
+        "eg_swe": "På savannen hoppar kängurun runt med sin joey i påsen.",
+        "form": "en",
+        "indefinite": "känguru",
+        "definite": "kängurun"
+    },
+    {
+        "eng": "kettle",
+        "swe": "vattenkokare",
+        "eg_eng": "The kettle whistled when the water boiled.",
+        "eg_swe": "Vattenkokaren visslade när vattnet kokade.",
+        "form": "en",
+        "indefinite": "vattenkokare",
+        "definite": "vattenkokaren"
+    },
+    {
+        "eng": "key",
+        "swe": "nyckel",
+        "eg_eng": "The key opened the old door.",
+        "eg_swe": "Nyckeln öppnade den gamla dörren.",
+        "form": "en",
+        "indefinite": "nyckel",
+        "definite": "nyckeln"
+    },
+    {
+        "eng": "kid",
+        "swe": "barn",
+        "eg_eng": "The kid played with its friends in the park.",
+        "eg_swe": "Barnet lekte med sina vänner i parken.",
+        "form": "en",
+        "indefinite": "barn",
+        "definite": "barnen"
+    },
+    {
+        "eng": "kind",
+        "swe": "type",
+        "eg_eng": "There are many different kinds of apples.",
+        "eg_swe": "Det finns många olika typen äpplen.",
+        "form": "en",
+        "indefinite": "type",
+        "definite": "typen"
+    },
+    {
+        "eng": "kitchen",
+        "swe": "kök",
+        "eg_eng": "In the kitchen, we cook and socialize with family and friends.",
+        "eg_swe": "I köket lagar vi mat och umgås med familj och vänner.",
+        "form": "ett",
+        "indefinite": "kök",
+        "definite": "köket"
+    },
+    {
+        "eng": "knee",
+        "swe": "knä",
+        "eg_eng": "The knee was bruised after the fall.",
+        "eg_swe": "Knäet var blåslaget efter fallet.",
+        "form": "ett",
+        "indefinite": "knä",
+        "definite": "knäet"
+    },
+    {
+        "eng": "knife",
+        "swe": "kniv",
+        "eg_eng": "The knife was sharp and cut easily through the bread.",
+        "eg_swe": "Kniven var vass och skar lätt genom brödet.",
+        "form": "en",
+        "indefinite": "kniv",
+        "definite": "kniven"
+    },
+    {
+        "eng": "knot",
+        "swe": "knut",
+        "eg_eng": "The knot in the rope was hard to untie.",
+        "eg_swe": "Knuten i repet var svår att lösa.",
+        "form": "en",
+        "indefinite": "knut",
+        "definite": "knuten"
+    },
+    {
+        "eng": "koala",
+        "swe": "koala",
+        "eg_eng": "In the eucalyptus tree, the koala climbs up to eat leaves and rest.",
+        "eg_swe": "I eukalyptusträdet klättrar koalan upp för att äta löv och vila.",
+        "form": "en",
+        "indefinite": "koala",
+        "definite": "koalan"
+    },
+    {
+        "eng": "lake",
+        "swe": "sjö",
+        "eg_eng": "By the lake, one can fish and enjoy the tranquility of nature.",
+        "eg_swe": "Vid sjön kan man fiska och njuta av naturens lugn.",
+        "form": "en",
+        "indefinite": "sjö",
+        "definite": "sjön"
+    },
+    {
+        "eng": "lamp",
+        "swe": "lampa",
+        "eg_eng": "On the lamp, we put a light bulb to illuminate the room when it's dark outside.",
+        "eg_swe": "På lampan sätter vi en glödlampa för att lysa upp rummet när det är mörkt ute.",
+        "form": "en",
+        "indefinite": "lampa",
+        "definite": "lampan"
+    },
+    {
+        "eng": "law",
+        "swe": "lag",
+        "eg_eng": "The law prohibits discrimination in the workplace.",
+        "eg_swe": "Lagen förbjuder diskriminering på arbetsplatsen.",
+        "form": "en",
+        "indefinite": "lag",
+        "definite": "lagen"
+    },
+    {
+        "eng": "leaf",
+        "swe": "blad",
+        "eg_eng": "The leaf fell from the tree.",
+        "eg_swe": "Bladet föll från trädet.",
+        "form": "ett",
+        "indefinite": "blad",
+        "definite": "bladet"
+    },
+    {
+        "eng": "leg",
+        "swe": "ben",
+        "eg_eng": "The leg hurt after the long hike.",
+        "eg_swe": "Benet gjorde ont efter den långa vandringen.",
+        "form": "ett",
+        "indefinite": "ben",
+        "definite": "benet"
+    },
+    {
+        "eng": "level",
+        "swe": "nivå",
+        "eg_eng": "The level of the course was very high.",
+        "eg_swe": "Nivån på kursen var mycket hög.",
+        "form": "en",
+        "indefinite": "nivå",
+        "definite": "nivån"
+    },
+    {
+        "eng": "library",
+        "swe": "bibliotek",
+        "eg_eng": "The library was full of old books.",
+        "eg_swe": "Biblioteket var fullt av gamla böcker.",
+        "form": "ett",
+        "indefinite": "bibliotek",
+        "definite": "biblioteket"
+    },
+    {
+        "eng": "life",
+        "swe": "liv",
+        "eg_eng": "Life is full of surprises.",
+        "eg_swe": "Livet är fullt av överraskningar.",
+        "form": "ett",
+        "indefinite": "liv",
+        "definite": "livet"
+    },
+    {
+        "eng": "line",
+        "swe": "linje",
+        "eg_eng": "The line was drawn with a pen.",
+        "eg_swe": "Linjen drogs med en penna.",
+        "form": "en",
+        "indefinite": "linje",
+        "definite": "linjen"
+    },
+    {
+        "eng": "lion",
+        "swe": "lejon",
+        "eg_eng": "In the savanna, the lion hunts its prey and rests under the trees during the day.",
+        "eg_swe": "På savannen jagar lejonet sitt byte och vilar under träden under dagen.",
+        "form": "ett",
+        "indefinite": "lejon",
+        "definite": "lejonet"
+    },
+    {
+        "eng": "lip",
+        "swe": "läpp",
+        "eg_eng": "The lip was cracked and sore.",
+        "eg_swe": "Läppen var sprucken och öm.",
+        "form": "en",
+        "indefinite": "läpp",
+        "definite": "läppen"
+    },
+    {
+        "eng": "lock",
+        "swe": "lås",
+        "eg_eng": "The lock was hard to open without a key.",
+        "eg_swe": "Låset var svårt att öppna utan nyckel.",
+        "form": "en",
+        "indefinite": "lås",
+        "definite": "låset"
+    },
+    {
+        "eng": "lot",
+        "swe": "mycket",
+        "eg_eng": "He has a lot to do every day.",
+        "eg_swe": "Han har mycket att göra varje dag.",
+        "form": "ett",
+        "indefinite": "mycket",
+        "definite": "mycket"
+    },
+    {
+        "eng": "lunch",
+        "swe": "lunch",
+        "eg_eng": "The lunch is light",
+        "eg_swe": "Lunchen är lätt",
+        "form": "en",
+        "indefinite": "lunch",
+        "definite": "lunchen"
+    },
+    {
+        "eng": "mall",
+        "swe": "köpcentrum",
+        "eg_eng": "In the mall, there is a wide range of shops and restaurants.",
+        "eg_swe": "I gallerian finns ett brett utbud av butiker och restauranger.",
+        "form": "en",
+        "indefinite": "köpcentrum",
+        "definite": "köpcentret"
+    },
+    {
+        "eng": "man",
+        "swe": "man",
+        "eg_eng": "The man went to work every morning.",
+        "eg_swe": "Mannen gick till jobbet varje morgon.",
+        "form": "en",
+        "indefinite": "man",
+        "definite": "mannen"
+    },
+    {
+        "eng": "map",
+        "swe": "karta",
+        "eg_eng": "The details on the map were hard to read.",
+        "eg_swe": "Detaljerna på kartan var svåra att läsa.",
+        "form": "en",
+        "indefinite": "karta",
+        "definite": "kartan"
+    },
+    {
+        "eng": "market",
+        "swe": "marknad",
+        "eg_eng": "At the market, fresh vegetables and crafts by local producers are sold.",
+        "eg_swe": "På marknaden säljs färska grönsaker och hantverk av lokala producenter.",
+        "form": "en",
+        "indefinite": "marknad",
+        "definite": "marknaden"
+    },
+    {
+        "eng": "match",
+        "swe": "match",
+        "eg_eng": "The match ignited with a strike.",
+        "eg_swe": "Tändstickan antändes med ett ryck.",
+        "form": "en",
+        "indefinite": "match",
+        "definite": "matchen"
+    },
+    {
+        "eng": "meat",
+        "swe": "kött",
+        "eg_eng": "The meat is juicy",
+        "eg_swe": "Köttet är saftigt",
+        "form": "ett",
+        "indefinite": "kött",
+        "definite": "köttet"
+    },
+    {
+        "eng": "medicine",
+        "swe": "medicin",
+        "eg_eng": "The medicine is important",
+        "eg_swe": "Medicinen är viktig",
+        "form": "en",
+        "indefinite": "medicin",
+        "definite": "medicinen"
+    },
+    {
+        "eng": "member",
+        "swe": "medlem",
+        "eg_eng": "The member of the club attended every meeting.",
+        "eg_swe": "Medlemmen i klubben deltog i varje möte.",
+        "form": "en",
+        "indefinite": "medlem",
+        "definite": "medlemmen"
+    },
+    {
+        "eng": "milk",
+        "swe": "mjölk",
+        "eg_eng": "The milk is white",
+        "eg_swe": "Mjölken är vit",
+        "form": "en",
+        "indefinite": "mjölk",
+        "definite": "mjölken"
+    },
+    {
+        "eng": "minute",
+        "swe": "minut",
+        "eg_eng": "The minute before the meeting was filled with tension.",
+        "eg_swe": "Minuten innan mötet var fylld av spänning.",
+        "form": "en",
+        "indefinite": "minut",
+        "definite": "minuten"
+    },
+    {
+        "eng": "mirror",
+        "swe": "spegel",
+        "eg_eng": "On the mirror, we see our own reflection when getting ready for work or a night out.",
+        "eg_swe": "På spegeln ser vi vår egen reflektion när vi gör oss redo för jobbet eller en utekväll.",
+        "form": "en",
+        "indefinite": "spegel",
+        "definite": "spegeln"
+    },
+    {
+        "eng": "moment",
+        "swe": "ögonblick",
+        "eg_eng": "The moment was magical and unforgettable.",
+        "eg_swe": "Ögonblicket var magiskt och oförglömligt.",
+        "form": "en",
+        "indefinite": "ögonblick",
+        "definite": "ögonblicket"
+    },
+    {
+        "eng": "money",
+        "swe": "pengar",
+        "eg_eng": "The money was used to buy a new car.",
+        "eg_swe": "Pengarna användes till att köpa en ny bil.",
+        "form": "en",
+        "indefinite": "pengar",
+        "definite": "pengarna"
+    },
+    {
+        "eng": "monkey",
+        "swe": "apa",
+        "eg_eng": "The monkey jumped from tree to tree.",
+        "eg_swe": "Apan hoppade från träd till träd.",
+        "form": "en",
+        "indefinite": "apa",
+        "definite": "apan"
+    },
+    {
+        "eng": "month",
+        "swe": "månad",
+        "eg_eng": "The month passed by slowly.",
+        "eg_swe": "Månaden gick långsamt.",
+        "form": "en",
+        "indefinite": "månad",
+        "definite": "månaden"
+    },
+    {
+        "eng": "moon",
+        "swe": "måne",
+        "eg_eng": "The moon shone brightly in the night sky.",
+        "eg_swe": "Månen lyste starkt på natthimlen.",
+        "form": "en",
+        "indefinite": "måne",
+        "definite": "månen"
+    },
+    {
+        "eng": "morning",
+        "swe": "morgon",
+        "eg_eng": "The morning started with a cup of coffee.",
+        "eg_swe": "Morgonen började med en kopp kaffe.",
+        "form": "en",
+        "indefinite": "morgon",
+        "definite": "morgonen"
+    },
+    {
+        "eng": "mother",
+        "swe": "mamma",
+        "eg_eng": "The mother cooked dinner for the family.",
+        "eg_swe": "Mamman lagade middag till familjen.",
+        "form": "en",
+        "indefinite": "mamma",
+        "definite": "mamman"
+    },
+    {
+        "eng": "mountain",
+        "swe": "berg",
+        "eg_eng": "At the top of the mountain, climbers have a fantastic view of the landscape.",
+        "eg_swe": "På toppen av berget har klättrare en fantastisk utsikt över landskapet.",
+        "form": "en",
+        "indefinite": "berg",
+        "definite": "berget"
+    },
+    {
+        "eng": "mouse",
+        "swe": "mus",
+        "eg_eng": "The mouse is small",
+        "eg_swe": "Musen är liten",
+        "form": "en",
+        "indefinite": "mus",
+        "definite": "musen"
+    },
+    {
+        "eng": "mouth",
+        "swe": "mun",
+        "eg_eng": "The mouth was full of candy.",
+        "eg_swe": "Munnen var full av godis.",
+        "form": "en",
+        "indefinite": "mun",
+        "definite": "munnen"
+    },
+    {
+        "eng": "movie theater",
+        "swe": "biograf",
+        "eg_eng": "At the movie theater, one can watch the latest movies on a big screen with great sound.",
+        "eg_swe": "På biografen kan man se de senaste filmerna på en stor skärm med bra ljud.",
+        "form": "en",
+        "indefinite": "biograf",
+        "definite": "biografen"
+    },
+    {
+        "eng": "mug",
+        "swe": "mugg",
+        "eg_eng": "In the mug, we drink coffee, tea, and hot chocolate to get an energy boost.",
+        "eg_swe": "I muggen dricker vi kaffe, te och varm choklad för att få en energikick.",
+        "form": "en",
+        "indefinite": "mugg",
+        "definite": "muggen"
+    },
+    {
+        "eng": "muscle",
+        "swe": "muskel",
+        "eg_eng": "The muscle was sore after the workout.",
+        "eg_swe": "Muskeln var öm efter träningen.",
+        "form": "en",
+        "indefinite": "muskel",
+        "definite": "muskeln"
+    },
+    {
+        "eng": "museum",
+        "swe": "museum",
+        "eg_eng": "At the museum, one can see artworks, artifacts, and exhibitions from various eras.",
+        "eg_swe": "På museet kan man se konstverk, artefakter och utställningar från olika tidsepoker.",
+        "form": "ett",
+        "indefinite": "museum",
+        "definite": "museet"
+    },
+    {
+        "eng": "nail",
+        "swe": "spik",
+        "eg_eng": "The nail was hammered into the wall.",
+        "eg_swe": "Spiken slogs in i väggen.",
+        "form": "en",
+        "indefinite": "spik",
+        "definite": "spiken"
+    },
+    {
+        "eng": "name",
+        "swe": "namn",
+        "eg_eng": "The author's name was very well-known.",
+        "eg_swe": "Författarens namn var mycket välkänt.",
+        "form": "ett",
+        "indefinite": "namn",
+        "definite": "namnet"
+    },
+    {
+        "eng": "neck",
+        "swe": "hals",
+        "eg_eng": "The neck was stiff after sleeping wrong.",
+        "eg_swe": "Nacken var stel efter att ha sovit fel.",
+        "form": "en",
+        "indefinite": "hals",
+        "definite": "nacken"
+    },
+    {
+        "eng": "necklace",
+        "swe": "halsband",
+        "eg_eng": "Lisa received a beautiful necklace from her best friend on her birthday",
+        "eg_swe": "Lisa fick ett vackert halsband av sin bästa vän på sin födelsedag",
+        "form": "ett",
+        "indefinite": "halsband",
+        "definite": "halsbandet"
+    },
+    {
+        "eng": "needle",
+        "swe": "nål",
+        "eg_eng": "The needle was used to sew the sweater.",
+        "eg_swe": "Nålen användes för att sy tröjan.",
+        "form": "en",
+        "indefinite": "nål",
+        "definite": "nålen"
+    },
+    {
+        "eng": "nerve",
+        "swe": "nerv",
+        "eg_eng": "The nerve was damaged after the accident.",
+        "eg_swe": "Nerven skadades efter olyckan.",
+        "form": "en",
+        "indefinite": "nerv",
+        "definite": "nerven"
+    },
+    {
+        "eng": "net",
+        "swe": "nät",
+        "eg_eng": "The net caught all the fish.",
+        "eg_swe": "Nätet fångade all fisk.",
+        "form": "ett",
+        "indefinite": "nät",
+        "definite": "nätet"
+    },
+    {
+        "eng": "night",
+        "swe": "natt",
+        "eg_eng": "The night was starry and beautiful.",
+        "eg_swe": "Natten var stjärnklar och vacker.",
+        "form": "en",
+        "indefinite": "natt",
+        "definite": "natten"
+    },
+    {
+        "eng": "nightclub",
+        "swe": "nattklubb",
+        "eg_eng": "At the nightclub, people dance to music and have fun late into the night.",
+        "eg_swe": "På nattklubben dansar man till musik och har roligt långt in på natten.",
+        "form": "en",
+        "indefinite": "nattklubb",
+        "definite": "nattklubben"
+    },
+    {
+        "eng": "nose",
+        "swe": "näsa",
+        "eg_eng": "The nose was stuffy from the cold.",
+        "eg_swe": "Näsan var täppt av kylan.",
+        "form": "en",
+        "indefinite": "näsa",
+        "definite": "näsan"
+    },
+    {
+        "eng": "number",
+        "swe": "nummer",
+        "eg_eng": "The number on the ticket was 123.",
+        "eg_swe": "Siffran på biljetten var 123.",
+        "form": "ett",
+        "indefinite": "nummer",
+        "definite": "numret"
+    },
+    {
+        "eng": "nurse",
+        "swe": "sjuksköterska",
+        "eg_eng": "The nurse is tired",
+        "eg_swe": "Sjuksköterskan är trött",
+        "form": "en",
+        "indefinite": "sjuksköterska",
+        "definite": "sjuksköterskan"
+    },
+    {
+        "eng": "nut",
+        "swe": "nöt",
+        "eg_eng": "The nut was hard to crack.",
+        "eg_swe": "Nöten var svår att knäcka.",
+        "form": "en",
+        "indefinite": "nöt",
+        "definite": "nöten"
+    },
+    {
+        "eng": "ocean",
+        "swe": "hav",
+        "eg_eng": "On the ocean, boats sail over the blue waves towards distant harbors.",
+        "eg_swe": "På havet seglar båtarna över de blå vågorna mot avlägsna hamnar.",
+        "form": "ett",
+        "indefinite": "hav",
+        "definite": "havet"
+    },
+    {
+        "eng": "octopus",
+        "swe": "bläckfisk",
+        "eg_eng": "In the ocean, the octopus swims quickly through the water and catches its prey with its tentacles.",
+        "eg_swe": "I havet simmar bläckfisken snabbt genom vattnet och fångar sitt byte med sina tentakler.",
+        "form": "en",
+        "indefinite": "bläckfisk",
+        "definite": "bläckfisken"
+    },
+    {
+        "eng": "office",
+        "swe": "kontor",
+        "eg_eng": "The office was full of papers.",
+        "eg_swe": "Kontoret var fullt av papper.",
+        "form": "ett",
+        "indefinite": "kontor",
+        "definite": "kontoret"
+    },
+    {
+        "eng": "orange",
+        "swe": "apelsin",
+        "eg_eng": "The orange was juicy and sweet.",
+        "eg_swe": "Apelsinen var saftig och söt.",
+        "form": "en",
+        "indefinite": "apelsin",
+        "definite": "apelsinen"
+    },
+    {
+        "eng": "orangutan",
+        "swe": "orangutang",
+        "eg_eng": "In the jungle, the orangutan climbs through the treetops and looks for fruit to eat.",
+        "eg_swe": "I djungeln klättrar orangutangen genom trädtopparna och letar efter frukt att äta.",
+        "form": "en",
+        "indefinite": "orangutang",
+        "definite": "orangutangen"
+    },
+    {
+        "eng": "others",
+        "swe": "andra",
+        "eg_eng": "The others were already in place.",
+        "eg_swe": "De andra var redan på plats.",
+        "form": "andra",
+        "indefinite": "andra",
+        "definite": "de andra"
+    },
+    {
+        "eng": "oven",
+        "swe": "ugn",
+        "eg_eng": "An oven was used to bake bread.",
+        "eg_swe": "En ugn användes för att baka bröd.",
+        "form": "en",
+        "indefinite": "ugn",
+        "definite": "ugnen"
+    },
+    {
+        "eng": "pants",
+        "swe": "byxor",
+        "eg_eng": "Emma likes to wear pants when she goes out",
+        "eg_swe": "Byxorna var nya och snygga.",
+        "form": "ett",
+        "indefinite": "byxor",
+        "definite": "byxorna"
+    },
+    {
+        "eng": "parcel",
+        "swe": "paket",
+        "eg_eng": "A parcel was delivered to the door.",
+        "eg_swe": "Ett paket levererades till dörren.",
+        "form": "ett",
+        "indefinite": "paket",
+        "definite": "paketet"
+    },
+    {
+        "eng": "parent",
+        "swe": "förälder",
+        "eg_eng": "The parent was proud of their child.",
+        "eg_swe": "Föräldern var stolt över sitt barn.",
+        "form": "en",
+        "indefinite": "förälder",
+        "definite": "föräldern"
+    },
+    {
+        "eng": "park",
+        "swe": "park",
+        "eg_eng": "In the park, children play, and families have picnics on the lawn.",
+        "eg_swe": "I parken leker barnen och familjer picknickar på gräsmattan.",
+        "form": "en",
+        "indefinite": "park",
+        "definite": "parken"
+    },
+    {
+        "eng": "parrot",
+        "swe": "papegoja",
+        "eg_eng": "In the jungle, the parrot flies around and imitates various sounds and voices.",
+        "eg_swe": "I djungeln flyger papegojan runt och imiterar olika ljud och röster.",
+        "form": "en",
+        "indefinite": "papegoja",
+        "definite": "papegojan"
+    },
+    {
+        "eng": "part",
+        "swe": "del",
+        "eg_eng": "That part of the city is very beautiful.",
+        "eg_swe": "Den delen av staden är väldigt vacker.",
+        "form": "en",
+        "indefinite": "del",
+        "definite": "delen"
+    },
+    {
+        "eng": "party",
+        "swe": "fest",
+        "eg_eng": "The party was a huge success.",
+        "eg_swe": "Festen blev en stor succé.",
+        "form": "en",
+        "indefinite": "fest",
+        "definite": "festen"
+    },
+    {
+        "eng": "patient",
+        "swe": "patient",
+        "eg_eng": "The patient is waiting",
+        "eg_swe": "Patienten väntar",
+        "form": "en",
+        "indefinite": "patient",
+        "definite": "patienten"
+    },
+    {
+        "eng": "peacock",
+        "swe": "påfågel",
+        "eg_eng": "In the park, the peacock displays its beautiful feathers to impress females.",
+        "eg_swe": "I parken visar påfågeln sina vackra fjädrar för att imponera på honorna.",
+        "form": "en",
+        "indefinite": "påfågel",
+        "definite": "påfågeln"
+    },
+    {
+        "eng": "pelican",
+        "swe": "pelikan",
+        "eg_eng": "In the water, the pelican catches fish with its large beak and swallows them whole.",
+        "eg_swe": "I vattnet fångar pelikanen fisk med sin stora näbb och sväljer dem hela.",
+        "form": "en",
+        "indefinite": "pelikan",
+        "definite": "pelikanen"
+    },
+    {
+        "eng": "pen",
+        "swe": "penna",
+        "eg_eng": "A pen lay on the desk.",
+        "eg_swe": "En penna användes för att skissa ritningar.",
+        "form": "en",
+        "indefinite": "penna",
+        "definite": "pennan"
+    },
+    {
+        "eng": "penguin",
+        "swe": "pingvin",
+        "eg_eng": "On the ice floe, the penguin walks together with its fellow species.",
+        "eg_swe": "På isflaket går pingvinen tillsammans med sina artfränder.",
+        "form": "en",
+        "indefinite": "pingvin",
+        "definite": "pingvinen"
+    },
+    {
+        "eng": "people",
+        "swe": "folk",
+        "eg_eng": "The people gathered in the square.",
+        "eg_swe": "Folket samlades på torget.",
+        "form": "ett",
+        "indefinite": "folk",
+        "definite": "folket"
+    },
+    {
+        "eng": "person",
+        "swe": "person",
+        "eg_eng": "The person was known for their kindness.",
+        "eg_swe": "Personen var känd för sin vänlighet.",
+        "form": "en",
+        "indefinite": "person",
+        "definite": "personen"
+    },
+    {
+        "eng": "pharmacy",
+        "swe": "apotek",
+        "eg_eng": "At the pharmacy, one can buy prescription medications and other health care products.",
+        "eg_swe": "På apoteket kan man köpa receptbelagda läkemedel och andra hälsovårdsprodukter.",
+        "form": "ett",
+        "indefinite": "apotek",
+        "definite": "apoteket"
+    },
+    {
+        "eng": "phone",
+        "swe": "telefon",
+        "eg_eng": "On the phone, we make calls, send messages, and take photos to document our memories.",
+        "eg_swe": "På telefonen ringer vi, skickar meddelanden och fotograferar för att dokumentera våra minnen.",
+        "form": "en",
+        "indefinite": "telefon",
+        "definite": "telefonen"
+    },
+    {
+        "eng": "picture",
+        "swe": "bild",
+        "eg_eng": "A picture hung on the wall.",
+        "eg_swe": "En bild hängde på väggen.",
+        "form": "en",
+        "indefinite": "bild",
+        "definite": "bilden"
+    },
+    {
+        "eng": "pig",
+        "swe": "gris",
+        "eg_eng": "A pig grunted in the pen.",
+        "eg_swe": "En gris grymtade i fållan.",
+        "form": "en",
+        "indefinite": "gris",
+        "definite": "grisen"
+    },
+    {
+        "eng": "pillow",
+        "swe": "kudde",
+        "eg_eng": "On the pillow, we rest our head when lying down and reading a book in bed.",
+        "eg_swe": "På kudden vilar vi huvudet när vi ligger ner och läser en bok i sängen.",
+        "form": "en",
+        "indefinite": "kudde",
+        "definite": "kudden"
+    },
+    {
+        "eng": "pin",
+        "swe": "nål",
+        "eg_eng": "A pin secured the fabric in place.",
+        "eg_swe": "Nålen användes för att sy tröjan.",
+        "form": "en",
+        "indefinite": "nål",
+        "definite": "nålen"
+    },
+    {
+        "eng": "pipe",
+        "swe": "rör",
+        "eg_eng": "A pipe leaked water.",
+        "eg_swe": "Ett rör läckte vatten.",
+        "form": "ett",
+        "indefinite": "rör",
+        "definite": "röret"
+    },
+    {
+        "eng": "place",
+        "swe": "plats",
+        "eg_eng": "The place was perfect for a picnic.",
+        "eg_swe": "Platsen var perfekt för en picknick.",
+        "form": "en",
+        "indefinite": "plats",
+        "definite": "platsen"
+    },
+    {
+        "eng": "plane",
+        "swe": "flygplan",
+        "eg_eng": "A plane flew across the sky.",
+        "eg_swe": "Ett flygplan flög över himlen.",
+        "form": "ett",
+        "indefinite": "flygplan",
+        "definite": "flygplanet"
+    },
+    {
+        "eng": "planet",
+        "swe": "planet",
+        "eg_eng": "On the planet Earth, there is a diversity of life forms and ecosystems.",
+        "eg_swe": "På planeten jorden finns en mångfald av livsformer och ekosystem.",
+        "form": "en",
+        "indefinite": "planet",
+        "definite": "planeten"
+    },
+    {
+        "eng": "plate",
+        "swe": "tallrik",
+        "eg_eng": "A plate shattered on the floor.",
+        "eg_swe": "En tallrik krossades på golvet.",
+        "form": "ett",
+        "indefinite": "tallrik",
+        "definite": "plattan"
+    },
+    {
+        "eng": "plough",
+        "swe": "plog",
+        "eg_eng": "A plough was used to plow the field.",
+        "eg_swe": "En plog användes för att plöja åkern.",
+        "form": "en",
+        "indefinite": "plog",
+        "definite": "plogen"
+    },
+    {
+        "eng": "pocket",
+        "swe": "ficka",
+        "eg_eng": "A pocket held the keys.",
+        "eg_swe": "En ficka innehöll nycklarna.",
+        "form": "en",
+        "indefinite": "ficka",
+        "definite": "fickan"
+    },
+    {
+        "eng": "point",
+        "swe": "punkt",
+        "eg_eng": "The point of the discussion was clear.",
+        "eg_swe": "Poängen med diskussionen var tydlig.",
+        "form": "en",
+        "indefinite": "punkt",
+        "definite": "poängen"
+    },
+    {
+        "eng": "polar bear",
+        "swe": "isbjörn",
+        "eg_eng": "On the ice floe, the polar bear hunts its prey and swims in the cold water.",
+        "eg_swe": "På isflaket jagar isbjörnen sitt byte och simmar i det kalla vattnet.",
+        "form": "en",
+        "indefinite": "isbjörn",
+        "definite": "isbjörnen"
+    },
+    {
+        "eng": "pot",
+        "swe": "gryta",
+        "eg_eng": "A pot boiled over on the stove.",
+        "eg_swe": "En gryta kokade över på spisen.",
+        "form": "en",
+        "indefinite": "gryta",
+        "definite": "grytan"
+    },
+    {
+        "eng": "potato",
+        "swe": "potatis",
+        "eg_eng": "A potato was cut into pieces to make French fries.",
+        "eg_swe": "En potatis skars i bitar för att göra pommes frites.",
+        "form": "en",
+        "indefinite": "potatis",
+        "definite": "potatisen"
+    },
+    {
+        "eng": "power",
+        "swe": "makt",
+        "eg_eng": "The power was concentrated in the hands of a few people.",
+        "eg_swe": "Makten var koncentrerad i händerna på ett fåtal personer.",
+        "form": "en",
+        "indefinite": "makt",
+        "definite": "makten"
+    },
+    {
+        "eng": "president",
+        "swe": "president",
+        "eg_eng": "The president gave a speech to the nation.",
+        "eg_swe": "Presidenten höll ett tal till nationen.",
+        "form": "en",
+        "indefinite": "president",
+        "definite": "presidenten"
+    },
+    {
+        "eng": "prison",
+        "swe": "fängelse",
+        "eg_eng": "A prison was surrounded by high walls.",
+        "eg_swe": "Ett fängelse var omgivet av höga murar.",
+        "form": "ett",
+        "indefinite": "fängelse",
+        "definite": "fängelset"
+    },
+    {
+        "eng": "problem",
+        "swe": "problem",
+        "eg_eng": "The problem was quickly solved by the team.",
+        "eg_swe": "Problemet löstes snabbt av teamet.",
+        "form": "ett",
+        "indefinite": "problem",
+        "definite": "problemet"
+    },
+    {
+        "eng": "program",
+        "swe": "program",
+        "eg_eng": "The program starts every morning at 9.",
+        "eg_swe": "Programmet startar varje morgon kl 9.",
+        "form": "ett",
+        "indefinite": "program",
+        "definite": "programmet"
+    },
+    {
+        "eng": "puffin",
+        "swe": "lunnefågel",
+        "eg_eng": "On the rock, the puffin climbs up to nest in its favorite spot.",
+        "eg_swe": "På klippan klättrar lunnefågeln upp för att häcka på sin favoritplats.",
+        "form": "en",
+        "indefinite": "lunnefågel",
+        "definite": "lunnefågeln"
+    },
+    {
+        "eng": "pump",
+        "swe": "pump",
+        "eg_eng": "A pump brought up water from the well.",
+        "eg_swe": "En pump tog upp vatten från brunnen.",
+        "form": "en",
+        "indefinite": "pump",
+        "definite": "pumpen"
+    },
+    {
+        "eng": "question",
+        "swe": "fråga",
+        "eg_eng": "The question was difficult to answer.",
+        "eg_swe": "Frågan var svår att svara på.",
+        "form": "en",
+        "indefinite": "fråga",
+        "definite": "frågan"
+    },
+    {
+        "eng": "rabbit",
+        "swe": "kanin",
+        "eg_eng": "In the garden, the rabbit hops around and eats carrots.",
+        "eg_swe": "I trädgården hoppar kaninen runt och äter morötter.",
+        "form": "en",
+        "indefinite": "kanin",
+        "definite": "kaninen"
+    },
+    {
+        "eng": "rail",
+        "swe": "räls",
+        "eg_eng": "A rail protected the stairs.",
+        "eg_swe": "Ett räls skyddade trappan.",
+        "form": "ett",
+        "indefinite": "räls",
+        "definite": "rälset"
+    },
+    {
+        "eng": "rain",
+        "swe": "regn",
+        "eg_eng": "The rain is falling",
+        "eg_swe": "Regnet faller",
+        "form": "ett",
+        "indefinite": "regn",
+        "definite": "regnet"
+    },
+    {
+        "eng": "rat",
+        "swe": "råtta",
+        "eg_eng": "A rat scurried through the corner.",
+        "eg_swe": "En råtta rusade genom hörnet.",
+        "form": "en",
+        "indefinite": "råtta",
+        "definite": "råttan"
+    },
+    {
+        "eng": "reason",
+        "swe": "orsak",
+        "eg_eng": "The reason for the decision was clear.",
+        "eg_swe": "Orsaken till beslutet var klar.",
+        "form": "en",
+        "indefinite": "orsak",
+        "definite": "orsaken"
+    },
+    {
+        "eng": "receipt",
+        "swe": "kvitto",
+        "eg_eng": "A receipt was saved as proof of purchase.",
+        "eg_swe": "Ett kvitto sparades som köpbevis.",
+        "form": "ett",
+        "indefinite": "kvitto",
+        "definite": "kvittot"
+    },
+    {
+        "eng": "refrigerator",
+        "swe": "kylskåp",
+        "eg_eng": "In the refrigerator, we store food and drinks to keep them cool and fresh.",
+        "eg_swe": "I kylskåpet förvarar vi mat och dryck för att hålla dem svala och fräscha.",
+        "form": "ett",
+        "indefinite": "kylskåp",
+        "definite": "kylskåpet"
+    },
+    {
+        "eng": "research",
+        "swe": "forskning",
+        "eg_eng": "The research led to new discoveries.",
+        "eg_swe": "Forskningen ledde till nya upptäckter.",
+        "form": "en",
+        "indefinite": "forskning",
+        "definite": "forskningen"
+    },
+    {
+        "eng": "restaurant",
+        "swe": "restaurang",
+        "eg_eng": "In the restaurant, delicious food from around the world is served.",
+        "eg_swe": "I restaurangen serveras utsökt mat från hela världen.",
+        "form": "en",
+        "indefinite": "restaurang",
+        "definite": "restaurangen"
+    },
+    {
+        "eng": "result",
+        "swe": "resultat",
+        "eg_eng": "The result of the experiment was surprising.",
+        "eg_swe": "Resultatet av experimentet var överraskande.",
+        "form": "ett",
+        "indefinite": "resultat",
+        "definite": "resultatet"
+    },
+    {
+        "eng": "right",
+        "swe": "rätt",
+        "eg_eng": "She has the right to express her opinion.",
+        "eg_swe": "Hon har rätt att uttrycka sin åsikt.",
+        "form": "en",
+        "indefinite": "rätt",
+        "definite": "rätten"
+    },
+    {
+        "eng": "ring",
+        "swe": "ring",
+        "eg_eng": "A ring sparkled on her finger.",
+        "eg_swe": "En ring gnistrade på hennes finger.",
+        "form": "en",
+        "indefinite": "ring",
+        "definite": "ringen"
+    },
+    {
+        "eng": "river",
+        "swe": "flod",
+        "eg_eng": "Along the river, vegetation thrives, and wildlife is abundant.",
+        "eg_swe": "Längs floden frodas växtlighet och vilda djur är rikligt.",
+        "form": "en",
+        "indefinite": "flod",
+        "definite": "floden"
+    },
+    {
+        "eng": "road",
+        "swe": "väg",
+        "eg_eng": "In the countryside, the road winds through fields and forests.",
+        "eg_swe": "På landsbygden slingrar sig vägen genom åkrar och skogar.",
+        "form": "en",
+        "indefinite": "väg",
+        "definite": "vägen"
+    },
+    {
+        "eng": "rod",
+        "swe": "stång",
+        "eg_eng": "A rod was used as a fishing pole.",
+        "eg_swe": "En stång används som ett fiske spö.",
+        "form": "en",
+        "indefinite": "stång",
+        "definite": "stången"
+    },
+    {
+        "eng": "roof",
+        "swe": "tak",
+        "eg_eng": "A roof protected the house from the rain.",
+        "eg_swe": "Ett tak skyddade huset från regnet.",
+        "form": "ett",
+        "indefinite": "tak",
+        "definite": "taket"
+    },
+    {
+        "eng": "room",
+        "swe": "rum",
+        "eg_eng": "The room was spacious and bright.",
+        "eg_swe": "Rummet var rymligt och ljust.",
+        "form": "ett",
+        "indefinite": "rum",
+        "definite": "rummet"
+    },
+    {
+        "eng": "root",
+        "swe": "rot",
+        "eg_eng": "A root extended deep into the soil.",
+        "eg_swe": "En rot sträckte sig djupt ner i jorden.",
+        "form": "en",
+        "indefinite": "rot",
+        "definite": "roten"
+    },
+    {
+        "eng": "sail",
+        "swe": "segel",
+        "eg_eng": "A sail caught the wind and the boat began to move.",
+        "eg_swe": "Ett segel fångade vinden och båten började röra sig.",
+        "form": "ett",
+        "indefinite": "segel",
+        "definite": "seglet"
+    },
+    {
+        "eng": "saucepan",
+        "swe": "kastrull",
+        "eg_eng": "In the saucepan, we boil pasta and make soups for dinner.",
+        "eg_swe": "I kastrullen kokar vi pasta och gör soppor till middag.",
+        "form": "en",
+        "indefinite": "kastrull",
+        "definite": "kastrullen"
+    },
+    {
+        "eng": "scarf",
+        "swe": "halsduk",
+        "eg_eng": "Elin wrapped the scarf around her neck to keep warm",
+        "eg_swe": "Elin lindade halsduken runt halsen för att hålla sig varm",
+        "form": "en",
+        "indefinite": "halsduk",
+        "definite": "halsduken"
+    },
+    {
+        "eng": "school",
+        "swe": "skola",
+        "eg_eng": "A school was full of children.",
+        "eg_swe": "En skola var full av barn.",
+        "form": "en",
+        "indefinite": "skola",
+        "definite": "skolan"
+    },
+    {
+        "eng": "scissors",
+        "swe": "sax",
+        "eg_eng": "A scissors cut through the fabric.",
+        "eg_swe": "En sax skar genom tyget.",
+        "form": "en",
+        "indefinite": "sax",
+        "definite": "saxen"
+    },
+    {
+        "eng": "screw",
+        "swe": "skruv",
+        "eg_eng": "A screw was fastened into the wall.",
+        "eg_swe": "En skruv sattes fast i väggen.",
+        "form": "en",
+        "indefinite": "skruv",
+        "definite": "skruven"
+    },
+    {
+        "eng": "seagull",
+        "swe": "fiskmås",
+        "eg_eng": "On the beach, the seagulls fly around and look for fish to eat.",
+        "eg_swe": "På stranden flyger trutarna runt och letar efter fisk att äta.",
+        "form": "en",
+        "indefinite": "fiskmås",
+        "definite": "fiskmåsen"
+    },
+    {
+        "eng": "seal",
+        "swe": "säl",
+        "eg_eng": "On the rock, the seals lie and bask in the sun after swimming in the cold water.",
+        "eg_swe": "På klippan ligger sälarna och njuter av solen efter att ha simmat i det kalla vattnet.",
+        "form": "en",
+        "indefinite": "säl",
+        "definite": "sälen"
+    },
+    {
+        "eng": "seed",
+        "swe": "frö",
+        "eg_eng": "A seed was planted in the soil.",
+        "eg_swe": "Ett frö såddes i jorden.",
+        "form": "ett",
+        "indefinite": "frö",
+        "definite": "fröet"
+    },
+    {
+        "eng": "service",
+        "swe": "tjänst",
+        "eg_eng": "The service was delivered quickly and efficiently.",
+        "eg_swe": "Tjänsten levererades snabbt och effektivt.",
+        "form": "en",
+        "indefinite": "tjänst",
+        "definite": "tjänsten"
+    },
+    {
+        "eng": "shark",
+        "swe": "haj",
+        "eg_eng": "In the ocean, the shark swims around and looks for fish to eat.",
+        "eg_swe": "I havet simmar hajen runt och letar efter fisk att äta.",
+        "form": "en",
+        "indefinite": "haj",
+        "definite": "hajen"
+    },
+    {
+        "eng": "sheep",
+        "swe": "får",
+        "eg_eng": "A sheep grazed in the meadow.",
+        "eg_swe": "Ett får betade på ängen.",
+        "form": "en",
+        "indefinite": "får",
+        "definite": "fåren"
+    },
+    {
+        "eng": "shelf",
+        "swe": "hylla",
+        "eg_eng": "A shelf was filled with books.",
+        "eg_swe": "En hylla var fylld med böcker.",
+        "form": "en",
+        "indefinite": "hylla",
+        "definite": "hyllan"
+    },
+    {
+        "eng": "ship",
+        "swe": "skepp",
+        "eg_eng": "A ship sailed across the sea.",
+        "eg_swe": "Ett skepp seglade över havet.",
+        "form": "ett",
+        "indefinite": "skepp",
+        "definite": "skeppet"
+    },
+    {
+        "eng": "shirt",
+        "swe": "skjorta",
+        "eg_eng": "A shirt hung in the wardrobe.",
+        "eg_swe": "En skjorta hängde i garderoben.",
+        "form": "en",
+        "indefinite": "skjorta",
+        "definite": "skjortan"
+    },
+    {
+        "eng": "shoe",
+        "swe": "sko",
+        "eg_eng": "A shoe lay on the floor.",
+        "eg_swe": "En sko låg på golvet.",
+        "form": "en",
+        "indefinite": "sko",
+        "definite": "skon"
+    },
+    {
+        "eng": "shoes",
+        "swe": "skor",
+        "eg_eng": "Johan wears his new shoes to play basketball",
+        "eg_swe": "Johan har på sig sina nya skor för att spela basket",
+        "form": "en",
+        "indefinite": "skor",
+        "definite": "skorna"
+    },
+    {
+        "eng": "side",
+        "swe": "sida",
+        "eg_eng": "The side of the building was covered in ivy.",
+        "eg_swe": "Sidan av byggnaden var täckt av murgröna.",
+        "form": "en",
+        "indefinite": "sida",
+        "definite": "sidan"
+    },
+    {
+        "eng": "sister",
+        "swe": "syster",
+        "eg_eng": "The sister is younger",
+        "eg_swe": "Systern är yngre",
+        "form": "en",
+        "indefinite": "syster",
+        "definite": "systern"
+    },
+    {
+        "eng": "skin",
+        "swe": "hud",
+        "eg_eng": "The skin was soft and smooth.",
+        "eg_swe": "Huden var mjuk och slät.",
+        "form": "en",
+        "indefinite": "hud",
+        "definite": "huden"
+    },
+    {
+        "eng": "skirt",
+        "swe": "kjol",
+        "eg_eng": "The skirt was short and blue.",
+        "eg_swe": "Kjolen var kort och blå.",
+        "form": "en",
+        "indefinite": "kjol",
+        "definite": "kjolen"
+    },
+    {
+        "eng": "sky",
+        "swe": "himlen",
+        "eg_eng": "The sky is blue",
+        "eg_swe": "Himlen är blå",
+        "form": "en",
+        "indefinite": "himlen",
+        "definite": "himlen"
+    },
+    {
+        "eng": "snake",
+        "swe": "orm",
+        "eg_eng": "The snake slithered through the grass.",
+        "eg_swe": "Ormen gled genom gräset.",
+        "form": "en",
+        "indefinite": "orm",
+        "definite": "ormen"
+    },
+    {
+        "eng": "snow",
+        "swe": "snö",
+        "eg_eng": "The snow is white",
+        "eg_swe": "Snön är vit",
+        "form": "en",
+        "indefinite": "snö",
+        "definite": "snön"
+    },
+    {
+        "eng": "sock",
+        "swe": "strumpa",
+        "eg_eng": "The sock had a hole in the heel.",
+        "eg_swe": "Strumpan var röd med vita ränder.",
+        "form": "en",
+        "indefinite": "strumpa",
+        "definite": "strumpan"
+    },
+    {
+        "eng": "sofa",
+        "swe": "soffa",
+        "eg_eng": "On the sofa, we relax and watch TV after a long day.",
+        "eg_swe": "I soffan kopplar vi av och tittar på tv efter en lång dag.",
+        "form": "en",
+        "indefinite": "soffa",
+        "definite": "soffan"
+    },
+    {
+        "eng": "spa",
+        "swe": "spa",
+        "eg_eng": "At the spa hotel, guests can enjoy various treatments and relaxation.",
+        "eg_swe": "På spahotellet kan gästerna njuta av olika behandlingar och avkoppling.",
+        "form": "ett",
+        "indefinite": "spa",
+        "definite": "spaet"
+    },
+    {
+        "eng": "spade",
+        "swe": "spade",
+        "eg_eng": "The spade was used to dig a hole.",
+        "eg_swe": "Spaden användes för att gräva ett hål.",
+        "form": "en",
+        "indefinite": "spade",
+        "definite": "spaden"
+    },
+    {
+        "eng": "sponge",
+        "swe": "svamp",
+        "eg_eng": "The sponge absorbed the water.",
+        "eg_swe": "Svampen absorberade vattnet.",
+        "form": "en",
+        "indefinite": "svamp",
+        "definite": "svampen"
+    },
+    {
+        "eng": "spoon",
+        "swe": "sked",
+        "eg_eng": "The spoon was used to stir the soup.",
+        "eg_swe": "Skeden användes för att röra soppan.",
+        "form": "en",
+        "indefinite": "sked",
+        "definite": "skeden"
+    },
+    {
+        "eng": "spring",
+        "swe": "vår",
+        "eg_eng": "Spring is my favorite season.",
+        "eg_swe": "Våren är min favoritårstid.",
+        "form": "en",
+        "indefinite": "vår",
+        "definite": "våren"
+    },
+    {
+        "eng": "square",
+        "swe": "kvadrat",
+        "eg_eng": "The square was full of people.",
+        "eg_swe": "Torget var fullt av folk.",
+        "form": "en",
+        "indefinite": "kvadrat",
+        "definite": "torget"
+    },
+    {
+        "eng": "squirrel",
+        "swe": "ekorre",
+        "eg_eng": "In the park, the squirrel climbs up the trees and gathers nuts.",
+        "eg_swe": "I parken klättrar ekorren upp i träden och samlar nötter.",
+        "form": "en",
+        "indefinite": "ekorre",
+        "definite": "ekorren"
+    },
+    {
+        "eng": "stadium",
+        "swe": "stadion",
+        "eg_eng": "At the stadium, sports teams play matches and events for an enthusiastic audience.",
+        "eg_swe": "På stadion spelar idrottslag matcher och evenemang för en entusiastisk publik.",
+        "form": "en",
+        "indefinite": "stadion",
+        "definite": "stadion"
+    },
+    {
+        "eng": "stamp",
+        "swe": "frimärke",
+        "eg_eng": "The stamp was on the envelope.",
+        "eg_swe": "Frimärket satt på kuvertet.",
+        "form": "ett",
+        "indefinite": "frimärke",
+        "definite": "frimärket"
+    },
+    {
+        "eng": "star",
+        "swe": "stjärna",
+        "eg_eng": "The star shone brightly in the night sky.",
+        "eg_swe": "Stjärnan lyste starkt på natthimlen.",
+        "form": "en",
+        "indefinite": "stjärna",
+        "definite": "stjärnan"
+    },
+    {
+        "eng": "state",
+        "swe": "stat",
+        "eg_eng": "The state is responsible for many services.",
+        "eg_swe": "Staten ansvarar för många tjänster.",
+        "form": "en",
+        "indefinite": "stat",
+        "definite": "staten"
+    },
+    {
+        "eng": "station",
+        "swe": "station",
+        "eg_eng": "The station was full of travelers.",
+        "eg_swe": "Stationen var full av resenärer.",
+        "form": "en",
+        "indefinite": "station",
+        "definite": "stationen"
+    },
+    {
+        "eng": "stem",
+        "swe": "stam",
+        "eg_eng": "The stem was green and strong.",
+        "eg_swe": "Stjälken var grön och stark.",
+        "form": "en",
+        "indefinite": "stam",
+        "definite": "stammen"
+    },
+    {
+        "eng": "stick",
+        "swe": "pinne",
+        "eg_eng": "The stick was used as a walking cane.",
+        "eg_swe": "Pinnen användes som promenadkäpp.",
+        "form": "en",
+        "indefinite": "pinne",
+        "definite": "pinnen"
+    },
+    {
+        "eng": "stocking",
+        "swe": "strumpa",
+        "eg_eng": "The stocking was red with white stripes.",
+        "eg_swe": "Strumpan var röd med vita ränder.",
+        "form": "en",
+        "indefinite": "strumpa",
+        "definite": "strumpan"
+    },
+    {
+        "eng": "stomach",
+        "swe": "mage",
+        "eg_eng": "The stomach growled with hunger.",
+        "eg_swe": "Magen morrade av hunger.",
+        "form": "en",
+        "indefinite": "mage",
+        "definite": "magen"
+    },
+    {
+        "eng": "store",
+        "swe": "affär",
+        "eg_eng": "The store sold both food and clothes.",
+        "eg_swe": "Butiken sålde både mat och kläder.",
+        "form": "en",
+        "indefinite": "affär",
+        "definite": "butiken"
+    },
+    {
+        "eng": "story",
+        "swe": "berättelse",
+        "eg_eng": "The story was told by an old man.",
+        "eg_swe": "Historien berättades av en gammal man.",
+        "form": "en",
+        "indefinite": "berättelse",
+        "definite": "historien"
+    },
+    {
+        "eng": "street",
+        "swe": "gata",
+        "eg_eng": "The street was empty at night.",
+        "eg_swe": "Gatan var tom på natten.",
+        "form": "en",
+        "indefinite": "gata",
+        "definite": "gatan"
+    },
+    {
+        "eng": "student",
+        "swe": "elev",
+        "eg_eng": "The student studied diligently for the exams.",
+        "eg_swe": "Studenten studerade flitigt inför tentorna.",
+        "form": "en",
+        "indefinite": "elev",
+        "definite": "eleven"
+    },
+    {
+        "eng": "study",
+        "swe": "studie",
+        "eg_eng": "The study showed interesting results.",
+        "eg_swe": "Studien visade intressanta resultat.",
+        "form": "en",
+        "indefinite": "studie",
+        "definite": "studien"
+    },
+    {
+        "eng": "subway station",
+        "swe": "tunnelbanestation",
+        "eg_eng": "At the subway station, commuter trains take passengers to various parts of the city.",
+        "eg_swe": "På tunnelbanestationen tar pendeltågen passagerare till olika delar av staden.",
+        "form": "en",
+        "indefinite": "tunnelbanestation",
+        "definite": "tunnelbanestationen"
+    },
+    {
+        "eng": "sun",
+        "swe": "sol",
+        "eg_eng": "The sun shone brightly in the sky.",
+        "eg_swe": "Solen sken starkt på himlen.",
+        "form": "en",
+        "indefinite": "sol",
+        "definite": "solen"
+    },
+    {
+        "eng": "sunglasses",
+        "swe": "solglasögon",
+        "eg_eng": "Jonas forgot his sunglasses at home and wished he had them when the sun was shining brightly",
+        "eg_swe": "Jonas glömde sina solglasögon hemma och önskade att han hade dem när solen sken",
+        "form": "en",
+        "indefinite": "solglasögon",
+        "definite": "solglasögonen"
+    },
+    {
+        "eng": "supermarket",
+        "swe": "stormarknad",
+        "eg_eng": "In the supermarket, one can buy everything from groceries to household items.",
+        "eg_swe": "I snabbköpet kan man köpa allt från matvaror till hushållsartiklar.",
+        "form": "en",
+        "indefinite": "stormarknad",
+        "definite": "snabbköpet"
+    },
+    {
+        "eng": "system",
+        "swe": "system",
+        "eg_eng": "The system needs to be updated regularly.",
+        "eg_swe": "Systemet behöver uppdateras regelbundet.",
+        "form": "ett",
+        "indefinite": "system",
+        "definite": "systemet"
+    },
+    {
+        "eng": "table",
+        "swe": "bord",
+        "eg_eng": "The table was set for dinner.",
+        "eg_swe": "Bordet var dukat till middag.",
+        "form": "ett",
+        "indefinite": "bord",
+        "definite": "bordet"
+    },
+    {
+        "eng": "tail",
+        "swe": "svans",
+        "eg_eng": "The tail wagged happily.",
+        "eg_swe": "Svansen viftade glatt.",
+        "form": "en",
+        "indefinite": "svans",
+        "definite": "svansen"
+    },
+    {
+        "eng": "taxi stand",
+        "swe": "taxistation",
+        "eg_eng": "At the taxi stand, drivers wait to take customers to their destinations.",
+        "eg_swe": "På taxistationen väntar förare på att ta kunder till sina destinationer.",
+        "form": "en",
+        "indefinite": "taxistation",
+        "definite": "taxistationen"
+    },
+    {
+        "eng": "tea",
+        "swe": "te",
+        "eg_eng": "The tea is green",
+        "eg_swe": "Teet är grönt",
+        "form": "ett",
+        "indefinite": "te",
+        "definite": "teet"
+    },
+    {
+        "eng": "teacher",
+        "swe": "lärare",
+        "eg_eng": "The teacher inspired her students every day.",
+        "eg_swe": "Läraren inspirerade sina elever varje dag.",
+        "form": "en",
+        "indefinite": "lärare",
+        "definite": "läraren"
+    },
+    {
+        "eng": "team",
+        "swe": "lag",
+        "eg_eng": "The team trained hard for the tournament.",
+        "eg_swe": "Lagen förbjuder diskriminering på arbetsplatsen.",
+        "form": "en",
+        "indefinite": "lag",
+        "definite": "lagen"
+    },
+    {
+        "eng": "thing",
+        "swe": "sak",
+        "eg_eng": "There is one thing I need to tell you.",
+        "eg_swe": "Det finns en sak jag måste berätta för dig.",
+        "form": "en",
+        "indefinite": "sak",
+        "definite": "saken"
+    },
+    {
+        "eng": "thread",
+        "swe": "tråd",
+        "eg_eng": "The thread was used to sew the fabrics together.",
+        "eg_swe": "Tråden var tunn men stark.",
+        "form": "en",
+        "indefinite": "tråd",
+        "definite": "tråden"
+    },
+    {
+        "eng": "throat",
+        "swe": "hals",
+        "eg_eng": "The throat felt sore after singing so much.",
+        "eg_swe": "Nacken var stel efter att ha sovit fel.",
+        "form": "en",
+        "indefinite": "hals",
+        "definite": "nacken"
+    },
+    {
+        "eng": "thumb",
+        "swe": "tumme",
+        "eg_eng": "The thumb was bandaged after the injury.",
+        "eg_swe": "Tummen förbands efter skadan.",
+        "form": "en",
+        "indefinite": "tumme",
+        "definite": "tummen"
+    },
+    {
+        "eng": "ticket",
+        "swe": "biljett",
+        "eg_eng": "The ticket gave him access to the concert.",
+        "eg_swe": "Biljetten gav honom tillgång till konserten.",
+        "form": "en",
+        "indefinite": "biljett",
+        "definite": "biljetten"
+    },
+    {
+        "eng": "tiger",
+        "swe": "tiger",
+        "eg_eng": "In the jungle, the tiger sneaks around among the trees and looks for food.",
+        "eg_swe": "I djungeln smyger tigern runt bland träden och letar efter mat.",
+        "form": "en",
+        "indefinite": "tiger",
+        "definite": "tigern"
+    },
+    {
+        "eng": "time",
+        "swe": "tid",
+        "eg_eng": "Time flies when you're having fun.",
+        "eg_swe": "Tiden går fort när man har roligt.",
+        "form": "en",
+        "indefinite": "tid",
+        "definite": "tiden"
+    },
+    {
+        "eng": "toe",
+        "swe": "tå",
+        "eg_eng": "The toe was bruised after hitting the furniture.",
+        "eg_swe": "Tån var blåslagen efter att ha träffat möbeln.",
+        "form": "en",
+        "indefinite": "tå",
+        "definite": "tån"
+    },
+    {
+        "eng": "tongue",
+        "swe": "tunga",
+        "eg_eng": "The tongue was red from the candy.",
+        "eg_swe": "Tungan var röd av godiset.",
+        "form": "en",
+        "indefinite": "tunga",
+        "definite": "tungan"
+    },
+    {
+        "eng": "tooth",
+        "swe": "tand",
+        "eg_eng": "The tooth needed a filling.",
+        "eg_swe": "Tanden behövde en fyllning.",
+        "form": "en",
+        "indefinite": "tand",
+        "definite": "tanden"
+    },
+    {
+        "eng": "towel",
+        "swe": "handduk",
+        "eg_eng": "With the towel, we dry ourselves after the shower and dry our hands after washing them.",
+        "eg_swe": "Med handduken torkar vi oss efter duschen och torkar händerna efter att vi tvättat dem.",
+        "form": "en",
+        "indefinite": "handduk",
+        "definite": "handduken"
+    },
+    {
+        "eng": "town",
+        "swe": "stad",
+        "eg_eng": "The town was small but charming.",
+        "eg_swe": "Staden var liten men charmig.",
+        "form": "en",
+        "indefinite": "stad",
+        "definite": "staden"
+    },
+    {
+        "eng": "train",
+        "swe": "tåg",
+        "eg_eng": "The train arrived on time.",
+        "eg_swe": "Tåget anlände i tid.",
+        "form": "ett",
+        "indefinite": "tåg",
+        "definite": "tåget"
+    },
+    {
+        "eng": "train station",
+        "swe": "tågstation",
+        "eg_eng": "At the train station, travelers wait for their departures to various destinations.",
+        "eg_swe": "På tågstationen väntar resenärer på sina avgångar till olika destinationer.",
+        "form": "en",
+        "indefinite": "tågstation",
+        "definite": "tågstationen"
+    },
+    {
+        "eng": "tray",
+        "swe": "bricka",
+        "eg_eng": "The tray was full of food.",
+        "eg_swe": "Brickan var full med mat.",
+        "form": "en",
+        "indefinite": "bricka",
+        "definite": "brickan"
+    },
+    {
+        "eng": "tree",
+        "swe": "träd",
+        "eg_eng": "The children play under the big tree in the park.",
+        "eg_swe": "Barnen leker under det stora trädet i parken.",
+        "form": "ett",
+        "indefinite": "träd",
+        "definite": "trädet"
+    },
+    {
+        "eng": "trousers",
+        "swe": "byxor",
+        "eg_eng": "The trousers were new and stylish.",
+        "eg_swe": "Byxorna var nya och snygga.",
+        "form": "en",
+        "indefinite": "byxor",
+        "definite": "byxorna"
+    },
+    {
+        "eng": "turtle",
+        "swe": "sköldpadda",
+        "eg_eng": "On the beach, the turtle crawls out of the water to lay its eggs in the sand.",
+        "eg_swe": "På stranden kryper sköldpaddan upp ur vattnet för att lägga sina ägg i sanden.",
+        "form": "en",
+        "indefinite": "sköldpadda",
+        "definite": "sköldpaddan"
+    },
+    {
+        "eng": "umbrella",
+        "swe": "paraply",
+        "eg_eng": "The umbrella protected him from the rain.",
+        "eg_swe": "Paraplyet skyddade honom från regnet.",
+        "form": "en",
+        "indefinite": "paraply",
+        "definite": "paraplyet"
+    },
+    {
+        "eng": "university",
+        "swe": "universitet",
+        "eg_eng": "At the university, advanced research and education in various subjects are conducted.",
+        "eg_swe": "Vid universitetet bedrivs avancerad forskning och utbildning i olika ämnen.",
+        "form": "en",
+        "indefinite": "universitet",
+        "definite": "universitetet"
+    },
+    {
+        "eng": "valley",
+        "swe": "dal",
+        "eg_eng": "In the valley, a river winds through the lush landscape.",
+        "eg_swe": "I dalen slingrar sig en flod genom det frodiga landskapet.",
+        "form": "en",
+        "indefinite": "dal",
+        "definite": "dalan"
+    },
+    {
+        "eng": "vegetable",
+        "swe": "grönsak",
+        "eg_eng": "The vegetable is healthy",
+        "eg_swe": "Grönsaken är hälsosam",
+        "form": "en",
+        "indefinite": "grönsak",
+        "definite": "grönsaken"
+    },
+    {
+        "eng": "village",
+        "swe": "by",
+        "eg_eng": "In the village, everyone knows their neighbors, and the community is strong.",
+        "eg_swe": "I byn känner alla sina grannar och gemenskapen är stark.",
+        "form": "en",
+        "indefinite": "by",
+        "definite": "byn"
+    },
+    {
+        "eng": "wall",
+        "swe": "vägg",
+        "eg_eng": "The wall was painted in a light color.",
+        "eg_swe": "Väggen målades i en ljus färg.",
+        "form": "en",
+        "indefinite": "vägg",
+        "definite": "väggen"
+    },
+    {
+        "eng": "wallet",
+        "swe": "plånbok",
+        "eg_eng": "Hanna found a wallet on the ground and turned it in to the police",
+        "eg_swe": "Hanna hittade en plånbok på marken och lämnade in den till polisen",
+        "form": "en",
+        "indefinite": "plånbok",
+        "definite": "plånboken"
+    },
+    {
+        "eng": "war",
+        "swe": "krig",
+        "eg_eng": "The war left deep scars in the society.",
+        "eg_swe": "Kriget lämnade djupa spår i samhället.",
+        "form": "ett",
+        "indefinite": "krig",
+        "definite": "kriget"
+    },
+    {
+        "eng": "washing machine",
+        "swe": "tvättmaskin",
+        "eg_eng": "In the washing machine, we wash the clothes every week to keep them clean.",
+        "eg_swe": "I tvättmaskinen tvättar vi kläderna varje vecka för att hålla dem rena.",
+        "form": "en",
+        "indefinite": "tvättmaskin",
+        "definite": "tvättmaskinen"
+    },
+    {
+        "eng": "watch",
+        "swe": "klocka",
+        "eg_eng": "The watch showed that it was late.",
+        "eg_swe": "En klocka hängde på väggen.",
+        "form": "en",
+        "indefinite": "klocka",
+        "definite": "klockan"
+    },
+    {
+        "eng": "water",
+        "swe": "vatten",
+        "eg_eng": "The water was cold and clear.",
+        "eg_swe": "Vattnet var kallt och klart.",
+        "form": "ett",
+        "indefinite": "vatten",
+        "definite": "vattnet"
+    },
+    {
+        "eng": "way",
+        "swe": "väg",
+        "eg_eng": "There are many ways to learn.",
+        "eg_swe": "På landsbygden slingrar sig vägen genom åkrar och skogar.",
+        "form": "en",
+        "indefinite": "väg",
+        "definite": "vägen"
+    },
+    {
+        "eng": "week",
+        "swe": "vecka",
+        "eg_eng": "The week went by quickly.",
+        "eg_swe": "Veckan gick snabbt.",
+        "form": "en",
+        "indefinite": "vecka",
+        "definite": "veckan"
+    },
+    {
+        "eng": "whale",
+        "swe": "val",
+        "eg_eng": "In the ocean, the whale swims far beneath the surface and sings beautiful songs.",
+        "eg_swe": "I havet simmar valen långt under ytan och sjunger vackra sånger.",
+        "form": "en",
+        "indefinite": "val",
+        "definite": "valen"
+    },
+    {
+        "eng": "wheel",
+        "swe": "hjul",
+        "eg_eng": "The wheel was flat.",
+        "eg_swe": "Hjulet var platt.",
+        "form": "ett",
+        "indefinite": "hjul",
+        "definite": "hjulet"
+    },
+    {
+        "eng": "whip",
+        "swe": "piska",
+        "eg_eng": "The whip was used to drive the horse.",
+        "eg_swe": "Piskan användes för att driva hästen.",
+        "form": "en",
+        "indefinite": "piska",
+        "definite": "piskan"
+    },
+    {
+        "eng": "whistle",
+        "swe": "vissla",
+        "eg_eng": "The whistle sounded loud and clear.",
+        "eg_swe": "Visslan lät högt och tydligt.",
+        "form": "en",
+        "indefinite": "vissla",
+        "definite": "visselpipan"
+    },
+    {
+        "eng": "wind",
+        "swe": "vind",
+        "eg_eng": "The wind is blowing",
+        "eg_swe": "Vinden blåser",
+        "form": "en",
+        "indefinite": "vind",
+        "definite": "vinden"
+    },
+    {
+        "eng": "window",
+        "swe": "fönster",
+        "eg_eng": "The window was open to let in fresh air.",
+        "eg_swe": "Fönstret var öppet för att släppa in frisk luft.",
+        "form": "ett",
+        "indefinite": "fönster",
+        "definite": "fönstret"
+    },
+    {
+        "eng": "wine",
+        "swe": "vin",
+        "eg_eng": "The wine is red",
+        "eg_swe": "Vinet är rött",
+        "form": "ett",
+        "indefinite": "vin",
+        "definite": "vinet"
+    },
+    {
+        "eng": "wing",
+        "swe": "vinge",
+        "eg_eng": "The wing was injured and the bird couldn't fly.",
+        "eg_swe": "Vingen skadades och fågeln kunde inte flyga.",
+        "form": "en",
+        "indefinite": "vinge",
+        "definite": "vingen"
+    },
+    {
+        "eng": "wire",
+        "swe": "tråd",
+        "eg_eng": "The wire was thin but strong.",
+        "eg_swe": "Tråden var tunn men stark.",
+        "form": "en",
+        "indefinite": "tråd",
+        "definite": "tråden"
+    },
+    {
+        "eng": "wolf",
+        "swe": "varg",
+        "eg_eng": "In the forest, the wolf hunts in packs and howls under the full moon at night.",
+        "eg_swe": "I skogen jagar vargen i flock och tjuter under fullmånen på natten.",
+        "form": "en",
+        "indefinite": "varg",
+        "definite": "vargen"
+    },
+    {
+        "eng": "woman",
+        "swe": "kvinna",
+        "eg_eng": "The woman read a book in the park.",
+        "eg_swe": "Kvinnan läste en bok i parken.",
+        "form": "en",
+        "indefinite": "kvinna",
+        "definite": "kvinnan"
+    },
+    {
+        "eng": "work",
+        "swe": "arbete",
+        "eg_eng": "The work required a lot of time and effort.",
+        "eg_swe": "Arbetet krävde mycket tid och kraft.",
+        "form": "ett",
+        "indefinite": "arbete",
+        "definite": "arbetet"
+    },
+    {
+        "eng": "world",
+        "swe": "värld",
+        "eg_eng": "The world is vast and diverse.",
+        "eg_swe": "Världen är stor och mångfaldig.",
+        "form": "en",
+        "indefinite": "värld",
+        "definite": "världen"
+    },
+    {
+        "eng": "worm",
+        "swe": "mask",
+        "eg_eng": "The worm wriggled through the soil.",
+        "eg_swe": "Masken slingrade sig genom jorden.",
+        "form": "en",
+        "indefinite": "mask",
+        "definite": "masken"
+    },
+    {
+        "eng": "year",
+        "swe": "år",
+        "eg_eng": "The year has four seasons.",
+        "eg_swe": "Året har fyra årstider.",
+        "form": "ett",
+        "indefinite": "år",
+        "definite": "året"
+    },
+    {
+        "eng": "zebra",
+        "swe": "zebra",
+        "eg_eng": "On the savanna, the zebras run around and graze on the grass together with the antelopes.",
+        "eg_swe": "På savannen springer zebrorna runt och betar på gräset tillsammans med antiloperna.",
+        "form": "en",
+        "indefinite": "zebra",
+        "definite": "zebran"
+    },
+    {
+        "eng": "zoo",
+        "swe": "djurpark",
+        "eg_eng": "At the zoo, one can see exotic animals from various parts of the world.",
+        "eg_swe": "På djurparken kan man se exotiska djur från olika delar av världen.",
+        "form": "en",
+        "indefinite": "djurpark",
+        "definite": "djurparken"
+    }
+]
