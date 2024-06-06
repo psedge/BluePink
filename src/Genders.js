@@ -20,7 +20,7 @@ function Genders() {
 
     useEffect(() => {
         // Fetch the data file
-        fetch('/final.json')
+        fetch(process.env.PUBLIC_URL + '/final.json')
             .then(response => response.json())
             .then(data => {
                 setData(data);
@@ -29,13 +29,13 @@ function Genders() {
             .catch(error => console.error('Error fetching data:', error));
 
         // Fetch the SVG file
-        fetch('/svg/country-4x3/gb.svg')
+        fetch(process.env.PUBLIC_URL + '/svg/country-4x3/gb.svg')
             .then(response => response.text())
             .then(svg => setEngSvg(svg))
             .catch(error => console.error('Error fetching SVG:', error));
 
         // Fetch the SVG file
-        fetch('/svg/country-4x3/se.svg')
+        fetch(process.env.PUBLIC_URL + '/svg/country-4x3/se.svg')
             .then(response => response.text())
             .then(svg => setSweSvg(svg))
             .catch(error => console.error('Error fetching SVG:', error));
