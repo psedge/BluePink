@@ -40,18 +40,8 @@ div.counter span.percentage {
 }
 
 @media (max-width: 768px) {
-    .div.counter {
+    div.counter {
         width: 400px;
-    }
-}
-
-div.splits {
-    height: 75%
-}
-
-@media (max-width: 768px) {
-    div.splits {
-        height: 60%;
     }
 }
 
@@ -70,7 +60,6 @@ div.splits {
 }
 
 .full-width-bar {
-    height: 25%;
     flex: 1;
     background-color: white;
     display: flex;
@@ -79,8 +68,11 @@ div.splits {
 }
 
 @media (max-width: 768px) {
+    .splits {
+        flex: 2;
+    }
     .full-width-bar {
-        height: 40%;
+        flex: 1;
     }
 }
 
