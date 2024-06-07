@@ -42,6 +42,7 @@ div.counter span.percentage {
 @media (max-width: 768px) {
     div.counter {
         width: 400px;
+        top: 0;
     }
 }
 
@@ -67,20 +68,30 @@ div.counter span.percentage {
     align-items: center;
 }
 
-@media (max-width: 768px) {
-    .splits {
-        flex: 2;
-    }
-    .full-width-bar {
-        flex: 1;
-    }
-}
-
 .container {
     display: flex;
     flex-direction: row;
     width: 100%;
     height: 100%;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .container:first-child {
+        margin-top: 50px;
+    }
+
+    .splits {
+        flex-direction: column;
+        flex: 2;
+    }
+
+    .full-width-bar {
+        flex: 1;
+    }
 }
 
 .icon {
@@ -118,14 +129,14 @@ div.counter span.percentage {
 
 @media (max-width: 768px) {
     .example {
-        font-size: 24px;
+        font-size: 18px;
     }
     .example img {
-        float: left;
-        margin: 5px 15px 0 0;
+        float: none;
+        text-align:center;
+        margin: 15px 0px 0 0;
     }
 }
-
 
 .box {
     display: flex;
@@ -165,6 +176,10 @@ span.choice {
 }
 
 @media (max-width: 768px) {
+    .box {
+        width: 100%;
+    }
+
     span.choice {
         font-size: 48px;
     }
