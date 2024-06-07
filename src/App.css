@@ -39,6 +39,22 @@ div.counter span.percentage {
     font-weight: 400;
 }
 
+@media (max-width: 768px) {
+    .div.counter {
+        width: 400px;
+    }
+}
+
+div.splits {
+    height: 75%
+}
+
+@media (max-width: 768px) {
+    div.splits {
+        height: 60%;
+    }
+}
+
 .split-container {
     display: flex;
     flex-direction: column;
@@ -54,11 +70,18 @@ div.counter span.percentage {
 }
 
 .full-width-bar {
+    height: 25%;
     flex: 1;
     background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+@media (max-width: 768px) {
+    .full-width-bar {
+        height: 40%;
+    }
 }
 
 .container {
@@ -101,6 +124,17 @@ div.counter span.percentage {
     clear: both;
 }
 
+@media (max-width: 768px) {
+    .example {
+        font-size: 24px;
+    }
+    .example img {
+        float: left;
+        margin: 5px 15px 0 0;
+    }
+}
+
+
 .box {
     display: flex;
     flex-direction: column;
@@ -136,6 +170,12 @@ div.counter span.percentage {
 span.choice {
     font-weight: bold;
     font-size: 96px;
+}
+
+@media (max-width: 768px) {
+    span.choice {
+        font-size: 48px;
+    }
 }
 
 .keyboard-button {
@@ -178,4 +218,10 @@ span.choice {
     background-color: aliceblue;
     /*border: 2px solid #00EDF5FF;*/
     color: white;
+}
+
+@media (max-width: 768px) {
+    .keyboard-button {
+        /*display: none*/
+    }
 }

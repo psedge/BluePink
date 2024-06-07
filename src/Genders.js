@@ -159,7 +159,7 @@ function Genders() {
                 <span class="average"> at {getAverageResponseTime()} per</span>
             </div>
             <div className="split-container">
-                <div className="splits" style={{height: '75%'}}>
+                <div className="splits">
                     {currentIndex < data.length ? (
                         <div className="container">
                             <div className={`box a ${timerStarted === true ? isCorrect === true ? 'correct' : 'incorrect' : ''}`} onClick={() => handleOptionClick('en')}>
@@ -179,7 +179,7 @@ function Genders() {
                         <div className="result">End of data</div>
                     )}
                 </div>
-                <div className="full-width-bar" style={{height: '25%'}}>
+                <div className="full-width-bar">
                     <div className="example">
                         <img src={`data:image/svg+xml;utf8,${encodeURIComponent(engSvg)}`} alt="GB Flag" width="20" height="15" />
                         <span>{data[currentIndex].eg_eng}</span>

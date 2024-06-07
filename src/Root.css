@@ -1,4 +1,4 @@
-/*# Show all the content in the center of the page*/
+/* Show all the content in the center of the page */
 div.front-page {
     display: flex;
     justify-content: center;
@@ -6,9 +6,20 @@ div.front-page {
     height: 100vh;
     width: 100vw;
     background-color: aliceblue;
+    flex-direction: column; /* Default to column for mobile */
 }
 
 div.front-page svg {
     color: white;
     margin-left: -6px;
+}
+
+.keyboard-buttons {
+    display: flex;
+}
+
+@media (min-width: 768px) {
+    .front-page {
+        flex-direction: row !important;
+    }
 }
