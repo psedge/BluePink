@@ -301,7 +301,7 @@
         "swe": "fågel",
         "eg_eng": "A bird sat on the branch and sang.",
         "eg_swe": "Fågeln flaxade med vingarna.",
-        "form": "ett",
+        "form": "en",
         "indefinite": "fågel",
         "definite": "fågeln"
     },
@@ -2028,7 +2028,7 @@
         "swe": "köpcentrum",
         "eg_eng": "In the mall, there is a wide range of shops and restaurants.",
         "eg_swe": "I gallerian finns ett brett utbud av butiker och restauranger.",
-        "form": "en",
+        "form": "ett",
         "indefinite": "köpcentrum",
         "definite": "köpcentret"
     },
@@ -2190,7 +2190,7 @@
         "swe": "berg",
         "eg_eng": "At the top of the mountain, climbers have a fantastic view of the landscape.",
         "eg_swe": "På toppen av berget har klättrare en fantastisk utsikt över landskapet.",
-        "form": "en",
+        "form": "ett",
         "indefinite": "berg",
         "definite": "berget"
     },
@@ -3044,7 +3044,7 @@
         "eng": "sheep",
         "swe": "får",
         "eg_eng": "A sheep grazed in the meadow.",
-        "eg_swe": "Ett får betade på ängen.",
+        "eg_swe": "En får betade på ängen.",
         "form": "en",
         "indefinite": "får",
         "definite": "fåren"
@@ -3639,7 +3639,7 @@
         "swe": "universitet",
         "eg_eng": "At the university, advanced research and education in various subjects are conducted.",
         "eg_swe": "Vid universitetet bedrivs avancerad forskning och utbildning i olika ämnen.",
-        "form": "en",
+        "form": "ett",
         "indefinite": "universitet",
         "definite": "universitetet"
     },
@@ -3894,5 +3894,257 @@
         "form": "en",
         "indefinite": "djurpark",
         "definite": "djurparken"
+    },
+    {
+        "eng": "bicycle",
+        "swe": "cykel",
+        "eg_eng": "The bicycle is parked outside the school.",
+        "eg_swe": "Cykeln står parkerad utanför skolan.",
+        "form": "en",
+        "indefinite": "cykel",
+        "definite": "cykeln"
+    },
+    {
+        "eng": "train",
+        "swe": "tåg",
+        "eg_eng": "The train arrives at the station at three o'clock.",
+        "eg_swe": "Tåget anländer till stationen klockan tre.",
+        "form": "ett",
+        "indefinite": "tåg",
+        "definite": "tåget"
+    },
+    {
+        "eng": "airplane",
+        "swe": "flygplan",
+        "eg_eng": "The airplane flies high above the clouds.",
+        "eg_swe": "Flygplanet flyger högt över molnen.",
+        "form": "ett",
+        "indefinite": "flygplan",
+        "definite": "flygplanet"
+    },
+    {
+        "eng": "bus",
+        "swe": "buss",
+        "eg_eng": "The bus drives through the city every half hour.",
+        "eg_swe": "Bussen kör genom staden varje halvtimme.",
+        "form": "en",
+        "indefinite": "buss",
+        "definite": "bussen"
+    },
+    {
+        "eng": "newspaper",
+        "swe": "tidning",
+        "eg_eng": "The newspaper lies on the kitchen table.",
+        "eg_swe": "Tidningen ligger på köksbordet.",
+        "form": "en",
+        "indefinite": "tidning",
+        "definite": "tidningen"
+    },
+    {
+        "eng": "magazine",
+        "swe": "tidskrift",
+        "eg_eng": "The magazine contains articles about fashion and health.",
+        "eg_swe": "Tidskriften innehåller artiklar om mode och hälsa.",
+        "form": "en",
+        "indefinite": "tidskrift",
+        "definite": "tidskriften"
+    },
+    {
+        "eng": "letter",
+        "swe": "brev",
+        "eg_eng": "The letter came with the mail yesterday.",
+        "eg_swe": "Brevet kom med posten igår.",
+        "form": "ett",
+        "indefinite": "brev",
+        "definite": "brevet"
+    },
+    {
+        "eng": "email",
+        "swe": "mejl",
+        "eg_eng": "The email was sent early in the morning.",
+        "eg_swe": "Mejlet skickades tidigt på morgonen.",
+        "form": "ett",
+        "indefinite": "mejl",
+        "definite": "mejlet"
+    },
+    {
+        "eng": "keyboard",
+        "swe": "tangentbord",
+        "eg_eng": "The keyboard is used to type text.",
+        "eg_swe": "Tangentbordet används för att skriva text.",
+        "form": "ett",
+        "indefinite": "tangentbord",
+        "definite": "tangentbordet"
+    },
+    {
+        "eng": "screen",
+        "swe": "skärm",
+        "eg_eng": "The screen displays a clear and sharp image.",
+        "eg_swe": "Skärmen visar en klar och skarp bild.",
+        "form": "en",
+        "indefinite": "skärm",
+        "definite": "skärmen"
+    },
+    {
+        "eng": "camera",
+        "swe": "kamera",
+        "eg_eng": "The camera takes beautiful photographs.",
+        "eg_swe": "Kameran tar vackra fotografier.",
+        "form": "en",
+        "indefinite": "kamera",
+        "definite": "kameran"
+    },
+    {
+        "eng": "photo",
+        "swe": "foto",
+        "eg_eng": "The photo hangs on the wall in the living room.",
+        "eg_swe": "Fotot hänger på väggen i vardagsrummet.",
+        "form": "ett",
+        "indefinite": "foto",
+        "definite": "fotot"
+    },
+    {
+        "eng": "music",
+        "swe": "musik",
+        "eg_eng": "The music plays quietly in the background.",
+        "eg_swe": "Musiken spelar tyst i bakgrunden.",
+        "form": "en",
+        "indefinite": "musik",
+        "definite": "musiken"
+    },
+    {
+        "eng": "song",
+        "swe": "sång",
+        "eg_eng": "The song reminds me of my childhood.",
+        "eg_swe": "Sången påminner mig om min barndom.",
+        "form": "en",
+        "indefinite": "sång",
+        "definite": "sången"
+    },
+    {
+        "eng": "movie",
+        "swe": "film",
+        "eg_eng": "The movie is showing at the cinema tonight.",
+        "eg_swe": "Filmen visas på biografen ikväll.",
+        "form": "en",
+        "indefinite": "film",
+        "definite": "filmen"
+    },
+    {
+        "eng": "game",
+        "swe": "spel",
+        "eg_eng": "The game is fun to play with friends.",
+        "eg_swe": "Spelet är roligt att spela med vänner.",
+        "form": "ett",
+        "indefinite": "spel",
+        "definite": "spelet"
+    },
+    {
+        "eng": "toy",
+        "swe": "leksak",
+        "eg_eng": "The toy is in the children's room.",
+        "eg_swe": "Leksaken ligger på barnens rum.",
+        "form": "en",
+        "indefinite": "leksak",
+        "definite": "leksaken"
+    },
+    {
+        "eng": "ball",
+        "swe": "boll",
+        "eg_eng": "The ball bounces high on the basketball court.",
+        "eg_swe": "Bollen studsar högt på basketplanen.",
+        "form": "en",
+        "indefinite": "boll",
+        "definite": "bollen"
+    },
+    {
+        "eng": "weather",
+        "swe": "väder",
+        "eg_eng": "The weather is sunny and warm today.",
+        "eg_swe": "Vädret är soligt och varmt idag.",
+        "form": "ett",
+        "indefinite": "väder",
+        "definite": "vädret"
+    },
+    {
+        "eng": "temperature",
+        "swe": "temperatur",
+        "eg_eng": "The temperature rises quickly in the summer.",
+        "eg_swe": "Temperaturen stiger snabbt på sommaren.",
+        "form": "en",
+        "indefinite": "temperatur",
+        "definite": "temperaturen"
+    },
+    {
+        "eng": "season",
+        "swe": "säsong",
+        "eg_eng": "The skiing season has begun.",
+        "eg_swe": "Säsongen för skidåkning har börjat.",
+        "form": "en",
+        "indefinite": "säsong",
+        "definite": "säsongen"
+    },
+    {
+        "eng": "vacation",
+        "swe": "semester",
+        "eg_eng": "The vacation is spent by the sea.",
+        "eg_swe": "Semestern tillbringas vid havet.",
+        "form": "en",
+        "indefinite": "semester",
+        "definite": "semestern"
+    },
+    {
+        "eng": "holiday",
+        "swe": "helg",
+        "eg_eng": "The holiday is time for rest and relaxation.",
+        "eg_swe": "Helgen är tid för vila och avkoppling.",
+        "form": "en",
+        "indefinite": "helg",
+        "definite": "helgen"
+    },
+    {
+        "eng": "birthday",
+        "swe": "födelsedag",
+        "eg_eng": "The birthday is celebrated with cake and presents.",
+        "eg_swe": "Födelsedagen firas med tårta och presenter.",
+        "form": "en",
+        "indefinite": "födelsedag",
+        "definite": "födelsedagen"
+    },
+    {
+        "eng": "present",
+        "swe": "present",
+        "eg_eng": "The present was wrapped in colorful paper.",
+        "eg_swe": "Presenten var inslågd i färgglatt papper.",
+        "form": "en",
+        "indefinite": "present",
+        "definite": "presenten"
+    },
+    {
+        "eng": "party",
+        "swe": "fest",
+        "eg_eng": "The party continued until late in the evening.",
+        "eg_swe": "Festen pågick till sent på kvällen.",
+        "form": "en",
+        "indefinite": "fest",
+        "definite": "festen"
+    },
+    {
+        "eng": "wedding",
+        "swe": "bröllop",
+        "eg_eng": "The wedding was celebrated in a beautiful church.",
+        "eg_swe": "Bröllopet firades i en vacker kyrka.",
+        "form": "ett",
+        "indefinite": "bröllop",
+        "definite": "bröllopet"
+    },
+    {
+        "eng": "meeting",
+        "swe": "möte",
+        "eg_eng": "The meeting starts at nine on Monday.",
+        "eg_swe": "Mötet börjar klockan nio på måndag.",
+        "form": "ett",
+        "indefinite": "möte",
+        "definite": "mötet"
     }
 ]
