@@ -100,6 +100,10 @@ function Genders() {
     });
 
     const removeWordFromExample = (item) => {
+        if (!item || !item.indefinite || !item.definite || !item.form || !item.eg_swe) {
+            return item?.eg_swe || '';
+        }
+        
         const indefiniteForm = item.indefinite.toLowerCase();
         const definiteForm = item.definite.toLowerCase();
         const articleForm = item.form.toLowerCase();
@@ -110,20 +114,28 @@ function Genders() {
             const genderRevealing = articleForm === "en" ? ["den"] : ["det"];
             
             let workingExample = example;
+            
+            // Hide indefinite articles + word (e.g., "en kam" -> "______")
             for (let i = 0; i < preceding.length; i++) {
-                const regex = new RegExp(`(^|\\s)(${preceding[i]}\\s+)?(${word})(\\s|$)`, "gi");
-                workingExample = workingExample.replace(regex, (match, start, prefix, word, end) => {
-                    return start + (prefix || "") + "_".repeat(length) + end;
+                const regex = new RegExp(`(^|\\s)(${preceding[i]}\\s+)(${word})(\\s|$)`, "gi");
+                workingExample = workingExample.replace(regex, (match, start, article, targetWord, end) => {
+                    return start + "_".repeat(article.length + targetWord.length - 1) + end;
                 });
             }
             
-            // Also hide gender-revealing definite articles
+            // Hide definite articles + word (e.g., "den kammen" -> "________")
             for (let revealing of genderRevealing) {
                 const revealingRegex = new RegExp(`(^|\\s)(${revealing}\\s+)(${word})(\\s|$)`, "gi");
-                workingExample = workingExample.replace(revealingRegex, (match, start, article, word, end) => {
-                    return start + "_".repeat(article.length + word.length - 1) + end;
+                workingExample = workingExample.replace(revealingRegex, (match, start, article, targetWord, end) => {
+                    return start + "_".repeat(article.length + targetWord.length - 1) + end;
                 });
             }
+            
+            // Hide standalone words without articles as fallback
+            const standaloneRegex = new RegExp(`(^|\\s)(${word})(\\s|$)`, "gi");
+            workingExample = workingExample.replace(standaloneRegex, (match, start, targetWord, end) => {
+                return start + "_".repeat(targetWord.length) + end;
+            });
             
             return workingExample
         };
@@ -171,18 +183,26 @@ function Genders() {
                 <div className="splits">
                     {currentIndex < data.length ? (
                         <div className="container">
-                            <div className={`box a ${timerStarted === true ? isCorrect === true ? 'correct' : 'incorrect' : ''}`} onClick={() => handleOptionClick('en')}>
+                            <div className={`box a ${timerStarted === true ? selectedOption === 'en' ? (isCorrect === true ? 'correct' : 'incorrect') : 'incorrect unselected' : ''}`} onClick={() => !timerStarted && handleOptionClick('en')}>
                                 <span className="choice">En {data[currentIndex].swe}</span>
                                 <div className="icon">
-                                    <div className={`keyboard-button ${timerStarted === true ? selectedOption === 'en' ? 'pressed' : '' : ''}`} id="button">N</div>
+                                    <div className={`keyboard-button ${timerStarted === true ? 'disabled' : ''}`} id="button">N</div>
                                 </div>
                             </div>
-                            <div className={`box b ${timerStarted === true ? isCorrect === true ? 'correct' : 'incorrect' : ''}`} onClick={() => handleOptionClick('ett')} >
+                            <div className={`box b ${timerStarted === true ? selectedOption === 'ett' ? (isCorrect === true ? 'correct' : 'incorrect') : 'incorrect unselected' : ''}`} onClick={() => !timerStarted && handleOptionClick('ett')} >
                                 <span className="choice">Ett {data[currentIndex].swe}</span>
                                 <div className="icon">
-                                    <div className={`keyboard-button ${timerStarted === true ? selectedOption === 'ett' ? 'pressed' : '' : ''}`} id="button">T</div>
+                                    <div className={`keyboard-button ${timerStarted === true ? 'disabled' : ''}`} id="button">T</div>
                                 </div>
                             </div>
+                            {timerStarted && (
+                                <div className="spacebar-container">
+                                    <div className="spacebar-button" onClick={moveToNext}>
+                                        <span className="spacebar-text">→</span>
+                                        <div className="spacebar-icon">⎵</div>
+                                    </div>
+                                </div>
+                            )}
                         </div>
                     ) : (
                         <div className="result">End of data</div>
@@ -195,12 +215,6 @@ function Genders() {
                         <br />
                         <img src={`data:image/svg+xml;utf8,${encodeURIComponent(sweSvg)}`} alt="SE Flag" width="20" height="15" />
                         <span>{ timerStarted ? data[currentIndex].eg_swe : removeWordFromExample(data[currentIndex])}</span>
-                        {timerStarted && (
-                            <div className="next-prompt">
-                                <br />
-                                <span style={{fontSize: '14px', color: '#666'}}>Press Space for next →</span>
-                            </div>
-                        )}
                     </div>
                 </div>
             </div>

@@ -161,13 +161,18 @@ div.counter span.percentage {
 }
 
 .box.correct {
-    background: #16c716 !important;
+    background: #00aa00 !important;
     color: white;
 }
 
 .box.incorrect {
     background: red !important;
     color: black;
+}
+
+.box.incorrect.unselected {
+    background: #ccc !important;
+    color: #666;
 }
 
 span.choice {
@@ -230,5 +235,93 @@ span.choice {
 @media (max-width: 768px) {
     .keyboard-button {
         /*display: none*/
+    }
+}
+
+/* Disabled states */
+.box.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.keyboard-button.disabled {
+    background-color: #ccc;
+    color: #999;
+    cursor: not-allowed;
+    box-shadow: 2px 4px #aaa;
+}
+
+/* Spacebar button container */
+.spacebar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(50px);
+}
+
+.spacebar-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 40px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 5px 10px #e0e0e0;
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.1s ease-in-out;
+    font-weight: bold;
+    color: #666;
+    min-width: 200px;
+}
+
+.spacebar-button:hover {
+    background-color: #f0f0f0;
+}
+
+.spacebar-button:active {
+    box-shadow: 5px 4px #ccc;
+    transform: translateY(6px);
+}
+
+.spacebar-text {
+    font-size: 24px;
+    font-weight: 1000;
+    margin-bottom: 5px;
+}
+
+.spacebar-icon {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+@media (max-width: 768px) {
+    .spacebar-container {
+        position: relative;
+        top: auto;
+        transform: none;
+        margin-top: 20px;
+    }
+    
+    .spacebar-button {
+        min-width: 150px;
+        padding: 10px 30px;
+    }
+    
+    .spacebar-text {
+        font-size: 24px;
+        font-weight: 1000;
+    }
+    
+    .spacebar-icon {
+        font-size: 28px;
+        font-weight: 900;
     }
 }
