@@ -41,24 +41,15 @@ function Genders() {
             .catch(error => console.error('Error fetching SVG:', error));
     }, []);
 
-    useEffect(() => {
-        let timer;
-        if (timerStarted) {
-            let randomIndex = getRandomOption();
-            setShownIndexes([...shownIndexes, randomIndex]);
-
-            timer = setTimeout(() => {
-                setSelectedOption(null);
-                setIsCorrect(null);
-                setCurrentIndex(randomIndex);
-                setTimerStarted(false);
-                setResponseStartTime(Date.now());
-            }, 3000);
-        }
-        return () => {
-            clearTimeout(timer);
-        }
-    }, [timerStarted, currentIndex]);
+    const moveToNext = () => {
+        let randomIndex = getRandomOption();
+        setShownIndexes([...shownIndexes, randomIndex]);
+        setSelectedOption(null);
+        setIsCorrect(null);
+        setCurrentIndex(randomIndex);
+        setTimerStarted(false);
+        setResponseStartTime(Date.now());
+    };
 
     const getRandomOption = () => {
         // set random index not in the set that has been already shown
@@ -90,12 +81,16 @@ function Genders() {
 
     useEffect(() => {
         const handleKeyboardEvent = (event) => {
-            switch (event.key) {
-                case 'a':
-                    handleOptionClick('en');
+            switch (event.key.toLowerCase()) {
+                case 'n':
+                    if (!timerStarted) handleOptionClick('en');
                     break;
-                case 'b':
-                    handleOptionClick('ett');
+                case 't':
+                    if (!timerStarted) handleOptionClick('ett');
+                    break;
+                case ' ':
+                    event.preventDefault();
+                    if (timerStarted) moveToNext();
                     break;
             }
         }
@@ -111,11 +106,25 @@ function Genders() {
 
         const replaceWord = (example, word, length) => {
             const preceding = [articleForm, "min", "din", "sin", "mitt", "ditt", "sitt"];
+            // Gender-revealing words that should be hidden with the target word
+            const genderRevealing = articleForm === "en" ? ["den"] : ["det"];
+            
             let workingExample = example;
             for (let i = 0; i < preceding.length; i++) {
-                const regex = new RegExp(`\\b(${preceding[i]}\\s+)?${word}\\b`, "gi");
-                workingExample = workingExample.replace(regex, "_".repeat(length));
+                const regex = new RegExp(`(^|\\s)(${preceding[i]}\\s+)?(${word})(\\s|$)`, "gi");
+                workingExample = workingExample.replace(regex, (match, start, prefix, word, end) => {
+                    return start + (prefix || "") + "_".repeat(length) + end;
+                });
             }
+            
+            // Also hide gender-revealing definite articles
+            for (let revealing of genderRevealing) {
+                const revealingRegex = new RegExp(`(^|\\s)(${revealing}\\s+)(${word})(\\s|$)`, "gi");
+                workingExample = workingExample.replace(revealingRegex, (match, start, article, word, end) => {
+                    return start + "_".repeat(article.length + word.length - 1) + end;
+                });
+            }
+            
             return workingExample
         };
 
@@ -165,13 +174,13 @@ function Genders() {
                             <div className={`box a ${timerStarted === true ? isCorrect === true ? 'correct' : 'incorrect' : ''}`} onClick={() => handleOptionClick('en')}>
                                 <span className="choice">En {data[currentIndex].swe}</span>
                                 <div className="icon">
-                                    <div className={`keyboard-button ${timerStarted === true ? selectedOption === 'en' ? 'pressed' : '' : ''}`} id="button">A</div>
+                                    <div className={`keyboard-button ${timerStarted === true ? selectedOption === 'en' ? 'pressed' : '' : ''}`} id="button">N</div>
                                 </div>
                             </div>
                             <div className={`box b ${timerStarted === true ? isCorrect === true ? 'correct' : 'incorrect' : ''}`} onClick={() => handleOptionClick('ett')} >
                                 <span className="choice">Ett {data[currentIndex].swe}</span>
                                 <div className="icon">
-                                    <div className={`keyboard-button ${timerStarted === true ? selectedOption === 'ett' ? 'pressed' : '' : ''}`} id="button">B</div>
+                                    <div className={`keyboard-button ${timerStarted === true ? selectedOption === 'ett' ? 'pressed' : '' : ''}`} id="button">T</div>
                                 </div>
                             </div>
                         </div>
@@ -186,6 +195,12 @@ function Genders() {
                         <br />
                         <img src={`data:image/svg+xml;utf8,${encodeURIComponent(sweSvg)}`} alt="SE Flag" width="20" height="15" />
                         <span>{ timerStarted ? data[currentIndex].eg_swe : removeWordFromExample(data[currentIndex])}</span>
+                        {timerStarted && (
+                            <div className="next-prompt">
+                                <br />
+                                <span style={{fontSize: '14px', color: '#666'}}>Press Space for next →</span>
+                            </div>
+                        )}
                     </div>
                 </div>
             </div>
