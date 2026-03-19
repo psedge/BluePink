@@ -209,12 +209,23 @@ function Genders() {
                     )}
                 </div>
                 <div className="full-width-bar">
-                    <div className="example">
-                        <img src={`data:image/svg+xml;utf8,${encodeURIComponent(engSvg)}`} alt="GB Flag" width="20" height="15" />
-                        <span>{data[currentIndex].eg_eng}</span>
-                        <br />
-                        <img src={`data:image/svg+xml;utf8,${encodeURIComponent(sweSvg)}`} alt="SE Flag" width="20" height="15" />
-                        <span>{ timerStarted ? data[currentIndex].eg_swe : removeWordFromExample(data[currentIndex])}</span>
+                    <div className="word-entry">
+                        <div className="word-header">
+                            <span className="word-swe">{data[currentIndex].swe}</span>
+                            <span className="word-translation">{data[currentIndex].eng}</span>
+                        </div>
+                        {timerStarted && (
+                            <div className="word-meta">
+                                {data[currentIndex].indefinite} / {data[currentIndex].definite}
+                            </div>
+                        )}
+                        <div className="example">
+                            <img src={`data:image/svg+xml;utf8,${encodeURIComponent(engSvg)}`} alt="GB Flag" width="20" height="15" />
+                            <span>{data[currentIndex].eg_eng}</span>
+                            <br />
+                            <img src={`data:image/svg+xml;utf8,${encodeURIComponent(sweSvg)}`} alt="SE Flag" width="20" height="15" />
+                            <span>{ timerStarted ? data[currentIndex].eg_swe : removeWordFromExample(data[currentIndex])}</span>
+                        </div>
                     </div>
                 </div>
             </div>
