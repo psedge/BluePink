@@ -82,12 +82,12 @@
     },
     {
         "eng": "arch",
-        "swe": "båge",
+        "swe": "valv",
         "eg_eng": "An arch stood in the middle of the town.",
-        "eg_swe": "En båge stod mitt i staden.",
+        "eg_swe": "Ett valv stod mitt i staden.",
         "form": "ett",
-        "indefinite": "båge",
-        "definite": "bågen"
+        "indefinite": "valv",
+        "definite": "valvet"
     },
     {
         "eng": "area",
@@ -868,7 +868,7 @@
         "swe": "kam",
         "eg_eng": "A comb lay on the counter.",
         "eg_swe": "En kam låg på bänken.",
-        "form": "ett",
+        "form": "en",
         "indefinite": "kam",
         "definite": "kammen"
     },
