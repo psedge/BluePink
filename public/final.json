@@ -264,10 +264,10 @@
         "eng": "beer",
         "swe": "öl",
         "eg_eng": "The beer is cold",
-        "eg_swe": "Ölen är kall",
+        "eg_swe": "Ölet är kallt",
         "form": "ett",
         "indefinite": "öl",
-        "definite": "ölen"
+        "definite": "ölet"
     },
     {
         "eng": "bell",
@@ -381,7 +381,7 @@
         "eng": "boot",
         "swe": "stövel",
         "eg_eng": "A boot was muddy after the walk.",
-        "eg_swe": "En känga var lerig efter promenaden.",
+        "eg_swe": "En stövel var lerig efter promenaden.",
         "form": "ett",
         "indefinite": "stövel",
         "definite": "stöveln"
@@ -570,7 +570,7 @@
         "eng": "cafe",
         "swe": "kafé",
         "eg_eng": "At the café, one can enjoy coffee and pastries in a relaxed atmosphere.",
-        "eg_swe": "På caféet kan man njuta av kaffe och bakverk i en avslappnad atmosfär.",
+        "eg_swe": "På kaféet kan man njuta av kaffe och bakverk i en avslappnad atmosfär.",
         "form": "ett",
         "indefinite": "kafé",
         "definite": "kaféet"
@@ -858,7 +858,7 @@
         "eng": "college",
         "swe": "högskola",
         "eg_eng": "At college, students have the opportunity to delve deeper into various subjects.",
-        "eg_swe": "På college får studenterna möjlighet att fördjupa sig inom olika ämnen.",
+        "eg_swe": "På högskolan får studenterna möjlighet att fördjupa sig inom olika ämnen.",
         "form": "en",
         "indefinite": "högskola",
         "definite": "högskolan"
@@ -975,7 +975,7 @@
         "eng": "cup",
         "swe": "kopp",
         "eg_eng": "The cup was filled with coffee.",
-        "eg_swe": "Bägaren var fylld med kaffe.",
+        "eg_swe": "Koppen var fylld med kaffe.",
         "form": "en",
         "indefinite": "kopp",
         "definite": "koppen"
@@ -1002,7 +1002,7 @@
         "eng": "cutlery",
         "swe": "bestick",
         "eg_eng": "With the utensils, we eat meals and mix ingredients when cooking.",
-        "eg_swe": "Med redskapen äter vi måltider och blandar ingredienser när vi lagar mat.",
+        "eg_swe": "Med besticken äter vi måltider och blandar ingredienser när vi lagar mat.",
         "form": "en",
         "indefinite": "bestick",
         "definite": "besticken"
@@ -1128,7 +1128,7 @@
         "eng": "duck",
         "swe": "anka",
         "eg_eng": "In the pond, the ducks swim back and forth with their ducklings.",
-        "eg_swe": "I dammen simmar ankorna fram och tillbaka med sina ankungar.",
+        "eg_swe": "I dammen simmar ankan fram och tillbaka med sina ungar.",
         "form": "en",
         "indefinite": "anka",
         "definite": "ankan"
@@ -1730,7 +1730,7 @@
         "eng": "hour",
         "swe": "timme",
         "eg_eng": "The hours flew by as they worked.",
-        "eg_swe": "Timmarna flög iväg när de jobbade.",
+        "eg_swe": "Timmen gick fort när de jobbade.",
         "form": "en",
         "indefinite": "timme",
         "definite": "timmen"
@@ -2001,7 +2001,7 @@
         "swe": "lås",
         "eg_eng": "The lock was hard to open without a key.",
         "eg_swe": "Låset var svårt att öppna utan nyckel.",
-        "form": "en",
+        "form": "ett",
         "indefinite": "lås",
         "definite": "låset"
     },
@@ -2027,7 +2027,7 @@
         "eng": "mall",
         "swe": "köpcentrum",
         "eg_eng": "In the mall, there is a wide range of shops and restaurants.",
-        "eg_swe": "I gallerian finns ett brett utbud av butiker och restauranger.",
+        "eg_swe": "I köpcentret finns ett brett utbud av butiker och restauranger.",
         "form": "ett",
         "indefinite": "köpcentrum",
         "definite": "köpcentret"
@@ -2062,8 +2062,8 @@
     {
         "eng": "match",
         "swe": "match",
-        "eg_eng": "The match ignited with a strike.",
-        "eg_swe": "Tändstickan antändes med ett ryck.",
+        "eg_eng": "The match was played at home.",
+        "eg_swe": "Matchen spelades på hemmaplan.",
         "form": "en",
         "indefinite": "match",
         "definite": "matchen"
@@ -2342,7 +2342,7 @@
         "eng": "number",
         "swe": "nummer",
         "eg_eng": "The number on the ticket was 123.",
-        "eg_swe": "Siffran på biljetten var 123.",
+        "eg_swe": "Numret på biljetten var 123.",
         "form": "ett",
         "indefinite": "nummer",
         "definite": "numret"
@@ -2432,7 +2432,7 @@
         "eng": "pants",
         "swe": "byxor",
         "eg_eng": "Emma likes to wear pants when she goes out",
-        "eg_swe": "Byxorna var nya och snygga.",
+        "eg_swe": "Emma gillar att ha på sig byxor när hon går ut.",
         "form": "ett",
         "indefinite": "byxor",
         "definite": "byxorna"
@@ -2477,7 +2477,7 @@
         "eng": "part",
         "swe": "del",
         "eg_eng": "That part of the city is very beautiful.",
-        "eg_swe": "Den delen av staden är väldigt vacker.",
+        "eg_swe": "Denna del av staden är väldigt vacker.",
         "form": "en",
         "indefinite": "del",
         "definite": "delen"
@@ -2999,7 +2999,7 @@
         "eng": "seagull",
         "swe": "fiskmås",
         "eg_eng": "On the beach, the seagulls fly around and look for fish to eat.",
-        "eg_swe": "På stranden flyger trutarna runt och letar efter fisk att äta.",
+        "eg_swe": "På stranden flyger fiskmåsen runt och letar efter fisk att äta.",
         "form": "en",
         "indefinite": "fiskmås",
         "definite": "fiskmåsen"
@@ -3287,7 +3287,7 @@
         "eng": "stem",
         "swe": "stam",
         "eg_eng": "The stem was green and strong.",
-        "eg_swe": "Stjälken var grön och stark.",
+        "eg_swe": "Stammen var grön och stark.",
         "form": "en",
         "indefinite": "stam",
         "definite": "stammen"
@@ -3350,7 +3350,7 @@
         "eng": "student",
         "swe": "elev",
         "eg_eng": "The student studied diligently for the exams.",
-        "eg_swe": "Studenten studerade flitigt inför tentorna.",
+        "eg_swe": "Eleven studerade flitigt inför tentorna.",
         "form": "en",
         "indefinite": "elev",
         "definite": "eleven"
@@ -3881,7 +3881,7 @@
         "eng": "zebra",
         "swe": "zebra",
         "eg_eng": "On the savanna, the zebras run around and graze on the grass together with the antelopes.",
-        "eg_swe": "På savannen springer zebrorna runt och betar på gräset tillsammans med antiloperna.",
+        "eg_swe": "På savannen springer zebran runt och betar på gräset tillsammans med antiloperna.",
         "form": "en",
         "indefinite": "zebra",
         "definite": "zebran"
