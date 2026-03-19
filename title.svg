@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="55">
+  <image x="0" y="5" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAADbN2wMAAAB1ElEQVRoBe2ZXXKEIAyAsdPpFXuR3mYv2ZfOtH2hIKsGIQRDEju7+hQhf18SXXacPr5+vFuvKUjpdnKb7ICc1uOKd9MUdIL6IvvZ9L4ePL1+e/d++3Rvv0uA6DO/ypV8v363Wb3UFRqrm22hFHmsr+MA1hkS8VQAfJolIrTMtgqATGp9Xi6Ask62T/LVgbIDtisKHQC/iwYsCgAGWYMQFwAoxipavod0OmB4KNIBWHuhLxwHaLxkDI9Aa2WOAwRTyxlfM0UEFgDi65TlHUBjPk5Jjw66A6AN/psGE4DbKa4dXjYmAO7QekcZQL7i+wIpA+zDyd8/MoB++2M/RqOMdWCOjqSALMsM0eZ8DCBkc/axYhhApqJ8L88CsM0cv1Y6lqADEtNsDwoAxip0xp+ZmHEVYPmIUUOKHzPGrlH7PHoVIFfh31n8tycB+E9GrDTfurdsJIBFEr3J5nppFEkAOLHzR73MC9wFG8gy0BATSYBWJP0BaUVPe2yAsht0MA0NNkCZjOHcgOB3gM5hQHI8sxugAym71o8YAEdFaxgAgOaksIG0khGpCcCvplyCFBMCkBKAB7QCRjBHvitfP8xR1J2PPOVGZB/pAPRdqY/FKQ2m0JD/AGNoOazedoZuAAAAAElFTkSuQmCC" />
+  <text x="54" y="44" font-family="sans-serif" font-size="44" font-weight="bold">
+    <tspan fill="#97f2f8">Blue</tspan><tspan fill="#d087e4">Pink</tspan>
+  </text>
+</svg>

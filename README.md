@@ -1,13 +1,6 @@
-# BluePink
+[![BluePink](./title.svg)](https://psedge.github.io/BluePink)
 
-A Swedish language learning app focused on mastering noun genders and vocabulary. Learn the difference between "en" and "ett" words through interactive exercises and examples.
-
-## Features
-
-- **Gender Learning**: Practice Swedish noun genders (en/ett) with immediate feedback
-- **Vocabulary Building**: Learn 695+ common Swedish words with example sentences
-- **Audio Support**: Hear correct pronunciation with built-in audio features
-- **Progressive Learning**: Track your progress as you master Swedish grammar
+Submit to the superiority of genedered nouns and learn the difference between "en" and "ett" words through forced repetition.
 
 ## Getting Started
 
@@ -101,10 +94,5 @@ Contributions are welcome! Feel free to:
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License. God knows why you'd care, but have at it!
 
-## Learn More
-
-- [Swedish Grammar Guide](https://en.wikipedia.org/wiki/Swedish_grammar)
-- [React Documentation](https://reactjs.org/)
-- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
